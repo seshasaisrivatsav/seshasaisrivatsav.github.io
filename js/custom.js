@@ -358,11 +358,11 @@
 
     });
 
-    $(".scroll-blogs").on('click', function() {
+    $(".scroll-course").on('click', function() {
 
         $("html, body").animate({
 
-            scrollTop: $("#blogs").offset().top - 60
+            scrollTop: $("#courses").offset().top - 60
 
         },1000);
 
