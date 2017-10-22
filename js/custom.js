@@ -7,10 +7,6 @@
     'use strict';
 
 
-    $(".taportal").click(function () {
-        window.location = $(this).find("a").attr("pages/filmNerd.html");
-        return false;
-    });
 
     /*-----------------------------------------------------------------------------------*/
     /*  * Start Use Wow Js And mixItUp Js
