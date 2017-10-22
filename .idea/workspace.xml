@@ -2,8 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15e555db-41f7-4148-b03f-21607ff3f566" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pages/portfolio.html" afterPath="$PROJECT_DIR$/portfolio.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/portfolio.html" afterPath="$PROJECT_DIR$/pages/portfolio.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog.html" afterPath="$PROJECT_DIR$/blog.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/course/algorithms.html" afterPath="$PROJECT_DIR$/pages/course/algorithms.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/course/dbms.html" afterPath="$PROJECT_DIR$/pages/course/dbms.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/course/hci.html" afterPath="$PROJECT_DIR$/pages/course/hci.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/course/mr.html" afterPath="$PROJECT_DIR$/pages/course/mr.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/course/msd.html" afterPath="$PROJECT_DIR$/pages/course/msd.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/course/pdp.html" afterPath="$PROJECT_DIR$/pages/course/pdp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/course/webdev.html" afterPath="$PROJECT_DIR$/pages/course/webdev.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/project/filmNerd.html" afterPath="$PROJECT_DIR$/pages/project/filmNerd.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/project/healthCareManagementSystem.html" afterPath="$PROJECT_DIR$/pages/project/healthCareManagementSystem.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/project/pageRank.html" afterPath="$PROJECT_DIR$/pages/project/pageRank.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/project/pdfGenerate.html" afterPath="$PROJECT_DIR$/pages/project/pdfGenerate.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/project/taPortal.html" afterPath="$PROJECT_DIR$/pages/project/taPortal.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/project/webAppMaker.html" afterPath="$PROJECT_DIR$/pages/project/webAppMaker.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/project/webAppMakerAngular4.html" afterPath="$PROJECT_DIR$/pages/project/webAppMakerAngular4.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,10 +34,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pages/portfolio.html">
+        <entry file="file://$PROJECT_DIR$/portfolio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="276" column="83" lean-forward="false" selection-start-line="276" selection-start-column="83" selection-end-line="276" selection-end-column="83" />
+            <state relative-caret-position="433">
+              <caret line="292" column="0" lean-forward="true" selection-start-line="292" selection-start-column="0" selection-end-line="292" selection-end-column="0" />
               <folding>
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -76,7 +92,7 @@
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#a#0;n#div#1;n#div#1;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#9;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#10;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="e#37522#37528#0" expanded="true" />
+                <element signature="e#37477#37483#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -177,6 +193,7 @@
         <option value="$PROJECT_DIR$/styles.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/pages/portfolio.html" />
+        <option value="$PROJECT_DIR$/portfolio.html" />
       </list>
     </option>
   </component>
@@ -242,6 +259,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/pages" />
       <recent name="$PROJECT_DIR$/pages/project" />
       <recent name="$PROJECT_DIR$/images/logos" />
@@ -278,12 +296,12 @@
       <option name="presentableId" value="Default" />
       <updated>1508520394215</updated>
       <workItem from="1508520395400" duration="2080000" />
-      <workItem from="1508522533582" duration="39085000" />
+      <workItem from="1508522533582" duration="39206000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41165000" />
+    <option name="totallyTimeSpent" value="41286000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -318,7 +336,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pages/portfolio.html">
+    <entry file="file://$PROJECT_DIR$/portfolio.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -376,7 +394,7 @@
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#a#0;n#div#1;n#div#1;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#9;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#10;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#37522#37528#0" expanded="true" />
+            <element signature="e#37477#37483#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -645,7 +663,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/portfolio.html">
+    <entry file="file://$PROJECT_DIR$/portfolio.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="298">
           <caret line="948" column="25" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="1072" selection-end-column="7" />
@@ -703,7 +721,7 @@
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#a#0;n#div#1;n#div#1;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#9;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#10;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#37522#37528#0" expanded="true" />
+            <element signature="e#37477#37483#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -734,10 +752,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/portfolio.html">
+    <entry file="file://$PROJECT_DIR$/portfolio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="276" column="83" lean-forward="false" selection-start-line="276" selection-start-column="83" selection-end-line="276" selection-end-column="83" />
+        <state relative-caret-position="433">
+          <caret line="292" column="0" lean-forward="true" selection-start-line="292" selection-start-column="0" selection-end-line="292" selection-end-column="0" />
           <folding>
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -792,7 +810,7 @@
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#a#0;n#div#1;n#div#1;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#9;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#10;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#37522#37528#0" expanded="true" />
+            <element signature="e#37477#37483#0" expanded="true" />
           </folding>
         </state>
       </provider>
