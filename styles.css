@@ -1,0 +1,15 @@
+
+.backgroundcolor{
+    background-color: rgb(245, 246, 255);
+}
+
+.firstButtonSize{
+    font-size: 25px;
+    color: blue;
+    width: 160px;
+    height: 53px;
+}
+
+.pushdown{
+    padding-bottom: 40px;
+}
