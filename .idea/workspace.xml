@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15e555db-41f7-4148-b03f-21607ff3f566" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/blog-images/mean/homePage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/blogs/angular-4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/blogs/buying-camera.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/home/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/mail/contact_me.php" afterPath="$PROJECT_DIR$/homePageStyleAndScripts/mail/contact_me.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/home/about.html" afterPath="$PROJECT_DIR$/pages/home/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/home/blog-home.html" afterPath="$PROJECT_DIR$/pages/home/blog-home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/home/contact.html" afterPath="$PROJECT_DIR$/pages/home/contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/blogs/angular-4.html" afterPath="$PROJECT_DIR$/pages/blogs/angular-4.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio.html" afterPath="$PROJECT_DIR$/portfolio.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,6 +17,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/portfolio.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="113" column="0" lean-forward="true" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
+              <folding>
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#7;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#9;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#10;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/home/about.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -44,7 +60,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
+            <state relative-caret-position="1890">
               <caret line="126" column="20" lean-forward="false" selection-start-line="126" selection-start-column="9" selection-end-line="126" selection-end-column="20" />
               <folding>
                 <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -54,7 +70,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="blog-home.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="blog-home.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/home/blog-home.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="219">
@@ -78,8 +94,8 @@
       <file leaf-file-name="angular-4.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/blogs/angular-4.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="79" column="21" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="204" selection-end-column="0" />
+            <state relative-caret-position="131">
+              <caret line="80" column="17" lean-forward="true" selection-start-line="80" selection-start-column="17" selection-end-line="80" selection-end-column="17" />
               <folding>
                 <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -143,7 +159,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>section-padding</find>
       <find>services</find>
       <find>color-me</find>
       <find>portfolio</find>
@@ -168,11 +183,12 @@
       <find>\&lt;\!DOCTYPE html\&gt;\n\&lt;html lang\=\&quot;en\&quot;\&gt;\n\n\&lt;head\&gt;\n\n    \&lt;meta charset\=\&quot;utf\-8\&quot;\&gt;\n    \&lt;meta name\=\&quot;viewport\&quot; content\=\&quot;width\=device\-width\, initial\-scale\=1\, shrink\-to\-fit\=no\&quot;\&gt;\n    \&lt;meta name\=\&quot;description\&quot; content\=\&quot;\&quot;\&gt;\n    \&lt;meta name\=\&quot;author\&quot; content\=\&quot;\&quot;\&gt;\n\n    \&lt;title\&gt;Sesha Sai Srivatsav Kuchibhotla\&lt;\/title\&gt;\n\n    \&lt;\!\-\- Site Logo \-\-\&gt;\n    \&lt;link href\=\&quot;favicon\.ico\&quot; rel\=\&quot;shortcut icon\&quot; type\=\&quot;image\/x\-icon\&quot;\&gt;\n\n    \&lt;\!\-\- Bootstrap core CSS \-\-\&gt;\n    \&lt;link href\=\&quot;homePageStyleAndScripts\/vendor\/bootstrap\/css\/bootstrap\.min\.css\&quot; rel\=\&quot;stylesheet\&quot;\&gt;\n\n    \&lt;\!\-\- Custom fonts for this template \-\-\&gt;\n    \&lt;link href\=\&quot;homePageStyleAndScripts\/vendor\/font\-awesome\/css\/font\-awesome\.min\.css\&quot; rel\=\&quot;stylesheet\&quot; type\=\&quot;text\/css\&quot;\&gt;\n    \&lt;link href\=\'https\:\/\/fonts\.googleapis\.com\/css\?family\=Lora\:400\,700\,400italic\,700italic\' rel\=\'stylesheet\' type\=\'text\/css\'\&gt;\n    \&lt;link href\=\'https\:\/\/fonts\.googleapis\.com\/css\?family\=Open\+Sans\:300italic\,400italic\,600italic\,700italic\,800italic\,400\,300\,600\,700\,800\' rel\=\'stylesheet\' type\=\'text\/css\'\&gt;\n\n    \&lt;\!\-\- Custom styles for this template \-\-\&gt;\n    \&lt;link href\=\&quot;homePageStyleAndScripts\/css\/clean\-blog\.min\.css\&quot; rel\=\&quot;stylesheet\&quot;\&gt;\n\n    \&lt;\!\-\- Bootstrap core JavaScript \-\-\&gt;\n    \&lt;script src\=\&quot;homePageStyleAndScripts\/vendor\/jquery\/jquery\.min\.js\&quot;\&gt;\&lt;\/script\&gt;\n    \&lt;script src\=\&quot;homePageStyleAndScripts\/vendor\/bootstrap\/js\/bootstrap\.bundle\.min\.js\&quot;\&gt;\&lt;\/script\&gt;\n\n    \&lt;\!\-\- Custom scripts for this template \-\-\&gt;\n    \&lt;script src\=\&quot;homePageStyleAndScripts\/js\/clean\-blog\.min\.js\&quot;\&gt;\&lt;\/script\&gt;\n\n\&lt;\/head\&gt;\n\n\&lt;body\&gt;\n\n\&lt;\!\-\- Navigation \-\-\&gt;\n\&lt;nav class\=\&quot;navbar navbar\-expand\-lg navbar\-light fixed\-top\&quot; id\=\&quot;mainNav\&quot;\&gt;\n    \&lt;div class\=\&quot;container\&quot;\&gt;\n        \&lt;a class\=\&quot;navbar\-brand\&quot; href\=\&quot;index\.html\&quot;\&gt;Sesha Sai Srivatsav\&lt;\/a\&gt;\n        \&lt;button class\=\&quot;navbar\-toggler navbar\-toggler\-right\&quot; type\=\&quot;button\&quot; data\-toggle\=\&quot;collapse\&quot; data\-target\=\&quot;\#navbarResponsive\&quot; aria\-controls\=\&quot;navbarResponsive\&quot; aria\-expanded\=\&quot;false\&quot; aria\-label\=\&quot;Toggle navigation\&quot;\&gt;\n            Menu\n            \&lt;i class\=\&quot;fa fa\-bars\&quot;\&gt;\&lt;\/i\&gt;\n        \&lt;\/button\&gt;\n        \&lt;div class\=\&quot;collapse navbar\-collapse\&quot; id\=\&quot;navbarResponsive\&quot;\&gt;\n            \&lt;ul class\=\&quot;navbar\-nav ml\-auto\&quot;\&gt;\n                \&lt;li class\=\&quot;nav\-item\&quot;\&gt;\n                    \&lt;a class\=\&quot;nav\-link\&quot; href\=\&quot;index\.html\&quot;\&gt;Home\&lt;\/a\&gt;\n                \&lt;\/li\&gt;\n                \&lt;li class\=\&quot;nav\-item\&quot;\&gt;\n                    \&lt;a class\=\&quot;nav\-link\&quot; href\=\&quot;portfolio\.html\&quot;\&gt;Portfolio\&lt;\/a\&gt;\n                \&lt;\/li\&gt;\n                \&lt;li class\=\&quot;nav\-item\&quot;\&gt;\n                    \&lt;a class\=\&quot;nav\-link\&quot; href\=\&quot;pages\/home\/about\.html\&quot;\&gt;About\&lt;\/a\&gt;\n                \&lt;\/li\&gt;\n                \&lt;li class\=\&quot;nav\-item\&quot;\&gt;\n                    \&lt;a class\=\&quot;nav\-link\&quot; href\=\&quot;pages\/home\/blog\-home\.html\&quot;\&gt;Blogs\&lt;\/a\&gt;\n                \&lt;\/li\&gt;\n\n\n                \&lt;li class\=\&quot;nav\-item\&quot;\&gt;\n                    \&lt;a class\=\&quot;nav\-link\&quot; href\=\&quot;pages\/home\/contact\.html\&quot;\&gt;Contact\&lt;\/a\&gt;\n                \&lt;\/li\&gt;\n            \&lt;\/ul\&gt;\n        \&lt;\/div\&gt;\n    \&lt;\/div\&gt;\n\&lt;\/nav\&gt;\n\n\&lt;\!\-\- Page Header \-\-\&gt;\n\&lt;header class\=\&quot;masthead\&quot; style\=\&quot;background\-image\: url\(\'images\/blog\-images\/home\-bg\.jpg\'\)\; height\: 444px\&quot;\&gt;\n    \&lt;div class\=\&quot;container\&quot;\&gt;\n        \&lt;div class\=\&quot;row\&quot;\&gt;\n            \&lt;div class\=\&quot;col\-lg\-8 col\-md\-10 mx\-auto\&quot;\&gt;\n                \&lt;div class\=\&quot;site\-heading\&quot;\&gt;\n                    \&lt;h1\&gt;Sesha Sai Srivatsav\&lt;\/h1\&gt;\n                    \&lt;span class\=\&quot;subheading\&quot;\&gt;Full Stack Engineer \| Web Developer \| Data Admin\&lt;\/span\&gt;\n\n\n                \&lt;\/div\&gt;\n            \&lt;\/div\&gt;\n        \&lt;\/div\&gt;\n    \&lt;\/div\&gt;\n\&lt;\/header\&gt;\n\n\&lt;\!\-\- Main Content \-\-\&gt;\n\&lt;div class\=\&quot;container\&quot;\&gt;\n\n    \&lt;\!\-\-\-\-\&gt;\n    \&lt;div class\=\&quot;row\&quot;\&gt;\n        \&lt;div class\=\&quot;col\-lg\-8 col\-md\-10 mx\-auto\&quot;\&gt;\n            \&lt;div class\=\&quot;post\-preview\&quot;\&gt;\n                \&lt;a href\=\&quot;pages\/home\/blog\-home\.html\&quot;\&gt;\n                    \&lt;h2 class\=\&quot;post\-title\&quot;\&gt;\n                        Getting started with Angular 4 Development\.\n                    \&lt;\/h2\&gt;\n                    \&lt;h3 class\=\&quot;post\-subtitle\&quot;\&gt;\n                        Creating your first Angular 4 MEAN Stack app with\n                    \&lt;\/h3\&gt;\n                \&lt;\/a\&gt;\n                \&lt;p class\=\&quot;post\-meta\&quot;\&gt;Posted by\n                    \&lt;a href\=\&quot;pages\/home\/about\.html\&quot;\&gt;Sesha Sai Srivatsav\&lt;\/a\&gt;\n                    on August 11\, 2017\&lt;\/p\&gt;\n            \&lt;\/div\&gt;\n\n\n            \&lt;hr\&gt;\n\n\n\n            \&lt;div class\=\&quot;post\-preview\&quot;\&gt;\n                \&lt;a href\=\&quot;pages\/home\/blog\-home\.html\&quot;\&gt;\n                    \&lt;h2 class\=\&quot;post\-title\&quot;\&gt;\n                        Guide to buy a camera \(DSLR\/Mirrorless\/Point\)\n                    \&lt;\/h2\&gt;\n                \&lt;\/a\&gt;\n                \&lt;p class\=\&quot;post\-meta\&quot;\&gt;Posted by\n                    \&lt;a href\=\&quot;pages\/home\/about\.html\&quot;\&gt;Sesha Sai Srivatsav\&lt;\/a\&gt;\n                    on September 18\, 2017\&lt;\/p\&gt;\n            \&lt;\/div\&gt;\n\n\n            \&lt;hr\&gt;\n\n\n            \&lt;div class\=\&quot;post\-preview\&quot;\&gt;\n                \&lt;a href\=\&quot;pages\/home\/blog\-home\.html\&quot;\&gt;\n                    \&lt;h2 class\=\&quot;post\-title\&quot;\&gt;\n                        Applying for EAD card\n                    \&lt;\/h2\&gt;\n                    \&lt;h3 class\=\&quot;post\-subtitle\&quot;\&gt;\n                        Steps to apply for Employment Authorization Card\n                    \&lt;\/h3\&gt;\n                \&lt;\/a\&gt;\n                \&lt;p class\=\&quot;post\-meta\&quot;\&gt;Posted by\n                    \&lt;a href\=\&quot;pages\/home\/about\.html\&quot;\&gt;Sesha Sai Srivatsav\&lt;\/a\&gt;\n                    on August 24\, 2017\&lt;\/p\&gt;\n            \&lt;\/div\&gt;\n\n            \&lt;hr\&gt;\n\n\n            \&lt;div class\=\&quot;post\-preview\&quot;\&gt;\n                \&lt;a href\=\&quot;pages\/home\/blog\-home\.html\&quot;\&gt;\n                    \&lt;h2 class\=\&quot;post\-title\&quot;\&gt;\n                        Process for MS in USA\n                    \&lt;\/h2\&gt;\n                    \&lt;h3 class\=\&quot;post\-subtitle\&quot;\&gt;\n                        Steps to get started for applying for MS in USA\n                    \&lt;\/h3\&gt;\n                \&lt;\/a\&gt;\n                \&lt;p class\=\&quot;post\-meta\&quot;\&gt;Posted by\n                    \&lt;a href\=\&quot;pages\/home\/about\.html\&quot;\&gt;Sesha Sai Srivatsav\&lt;\/a\&gt;\n                    on July 8\, 2015\&lt;\/p\&gt;\n            \&lt;\/div\&gt;\n            \&lt;hr\&gt;\n            \&lt;\!\-\- Pager \-\-\&gt;\n            \&lt;div class\=\&quot;clearfix\&quot;\&gt;\n                \&lt;a class\=\&quot;btn btn\-secondary float\-right\&quot; href\=\&quot;\#\&quot;\&gt;Older Posts \&amp;rarr\;\&lt;\/a\&gt;\n            \&lt;\/div\&gt;\n        \&lt;\/div\&gt;\n    \&lt;\/div\&gt;\n\&lt;\/div\&gt;\n\n\&lt;hr\&gt;\n\n\&lt;\!\-\- Footer \-\-\&gt;\n\&lt;footer\&gt;\n    \&lt;div class\=\&quot;container\&quot;\&gt;\n        \&lt;div class\=\&quot;row\&quot;\&gt;\n            \&lt;div class\=\&quot;col\-lg\-8 col\-md\-10 mx\-auto\&quot;\&gt;\n                \&lt;ul class\=\&quot;list\-inline text\-center\&quot;\&gt;\n                    \&lt;li class\=\&quot;list\-inline\-item\&quot;\&gt;\n                        \&lt;a href\=\&quot;\#\&quot;\&gt;\n                  \&lt;span class\=\&quot;fa\-stack fa\-lg\&quot;\&gt;\n                    \&lt;i class\=\&quot;fa fa\-circle fa\-stack\-2x\&quot;\&gt;\&lt;\/i\&gt;\n                    \&lt;i class\=\&quot;fa fa\-twitter fa\-stack\-1x fa\-inverse\&quot;\&gt;\&lt;\/i\&gt;\n                  \&lt;\/span\&gt;\n                        \&lt;\/a\&gt;\n                    \&lt;\/li\&gt;\n                    \&lt;li class\=\&quot;list\-inline\-item\&quot;\&gt;\n                        \&lt;a href\=\&quot;\#\&quot;\&gt;\n                  \&lt;span class\=\&quot;fa\-stack fa\-lg\&quot;\&gt;\n                    \&lt;i class\=\&quot;fa fa\-circle fa\-stack\-2x\&quot;\&gt;\&lt;\/i\&gt;\n                    \&lt;i class\=\&quot;fa fa\-facebook fa\-stack\-1x fa\-inverse\&quot;\&gt;\&lt;\/i\&gt;\n                  \&lt;\/span\&gt;\n                        \&lt;\/a\&gt;\n                    \&lt;\/li\&gt;\n                    \&lt;li class\=\&quot;list\-inline\-item\&quot;\&gt;\n                        \&lt;a href\=\&quot;\#\&quot;\&gt;\n                  \&lt;span class\=\&quot;fa\-stack fa\-lg\&quot;\&gt;\n                    \&lt;i class\=\&quot;fa fa\-circle fa\-stack\-2x\&quot;\&gt;\&lt;\/i\&gt;\n                    \&lt;i class\=\&quot;fa fa\-github fa\-stack\-1x fa\-inverse\&quot;\&gt;\&lt;\/i\&gt;\n                  \&lt;\/span\&gt;\n                        \&lt;\/a\&gt;\n                    \&lt;\/li\&gt;\n                \&lt;\/ul\&gt;\n                \&lt;p class\=\&quot;copyright text\-muted\&quot;\&gt;Copyright \&amp;copy\; Sesha Sai Srivatsav Kuchibhotla 2017\&lt;\/p\&gt;\n            \&lt;\/div\&gt;\n        \&lt;\/div\&gt;\n    \&lt;\/div\&gt;\n\&lt;\/footer\&gt;\n\n\n\n\&lt;\/body\&gt;\n\n\&lt;\/html\&gt;\n</find>
       <find>contact_me.php</find>
       <find>older</find>
-      <find>hr</find>
       <find>about</find>
       <find>gettin</find>
+      <find>hr</find>
       <find>sampl</find>
       <find>&lt;!--&lt;hr&gt;</find>
+      <find>sesha</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -206,7 +222,6 @@
         <option value="$PROJECT_DIR$/styles.css" />
         <option value="$PROJECT_DIR$/pages/portfolio.html" />
         <option value="$PROJECT_DIR$/post.html" />
-        <option value="$PROJECT_DIR$/portfolio.html" />
         <option value="$PROJECT_DIR$/pages/home/post.html" />
         <option value="$PROJECT_DIR$/pages/home/allblogs.html" />
         <option value="$PROJECT_DIR$/pages/blogs/blog-sample.html" />
@@ -217,10 +232,11 @@
         <option value="$PROJECT_DIR$/pages/home/contact.html" />
         <option value="$PROJECT_DIR$/pages/home/styles.css" />
         <option value="$PROJECT_DIR$/pages/blogs/buying-camera.css" />
-        <option value="$PROJECT_DIR$/pages/blogs/angular-4.html" />
         <option value="$PROJECT_DIR$/pages/blogs/buying-camera.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/pages/home/blog-home.html" />
+        <option value="$PROJECT_DIR$/pages/blogs/angular-4.html" />
+        <option value="$PROJECT_DIR$/portfolio.html" />
       </list>
     </option>
   </component>
@@ -257,6 +273,24 @@
             <path>
               <item name="www.seshasaisrivatsav.com" type="b2602c69:ProjectViewProjectNode" />
               <item name="www.seshasaisrivatsav.com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="www.seshasaisrivatsav.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="www.seshasaisrivatsav.com" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="www.seshasaisrivatsav.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="www.seshasaisrivatsav.com" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="blog-images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="www.seshasaisrivatsav.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="www.seshasaisrivatsav.com" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="blog-images" type="462c0819:PsiDirectoryNode" />
+              <item name="mean" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="www.seshasaisrivatsav.com" type="b2602c69:ProjectViewProjectNode" />
@@ -334,12 +368,12 @@
       <updated>1508520394215</updated>
       <workItem from="1508520395400" duration="2080000" />
       <workItem from="1508522533582" duration="39785000" />
-      <workItem from="1508858079877" duration="6840000" />
+      <workItem from="1508858079877" duration="7421000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48705000" />
+    <option name="totallyTimeSpent" value="49286000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -352,7 +386,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.053204354" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23337364" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -635,7 +669,7 @@
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#a#0;n#div#1;n#div#1;n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#9;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#10;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#37627#37633#0" expanded="false" />
+            <element signature="e#37636#37642#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -751,67 +785,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="311" column="0" lean-forward="true" selection-start-line="311" selection-start-column="0" selection-end-line="311" selection-end-column="0" />
-          <folding>
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#p#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#p#2;n#div#0;n#div#1;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#p#3;n#div#0;n#div#1;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#3;n#div#0;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#4;n#div#0;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#5;n#div#0;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#2;n#div#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#3;n#div#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#4;n#div#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#5;n#div#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#2;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#2;n#div#2;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#3;n#div#2;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#4;n#div#2;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#5;n#div#2;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#0;n#h3#0;n#div#1;n#div#0;n#div#0;n#a#0;n#div#0;n#div#2;n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#0;n#h3#0;n#div#1;n#div#0;n#div#0;n#a#1;n#div#0;n#div#2;n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#0;n#a#1;n#div#0;n#div#2;n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#0;n#h3#0;n#div#1;n#div#0;n#div#0;n#a#2;n#div#0;n#div#2;n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#0;n#h3#0;n#div#1;n#div#0;n#div#0;n#a#3;n#div#0;n#div#2;n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#0;n#h3#0;n#div#1;n#div#0;n#div#0;n#a#4;n#div#0;n#div#2;n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#0;n#a#4;n#div#0;n#div#2;n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#0;n#h3#0;n#div#1;n#div#0;n#div#0;n#a#5;n#div#0;n#div#2;n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#0;n#h3#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#7;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#a#0;n#div#0;n#div#1;n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#a#1;n#div#0;n#div#1;n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#a#2;n#div#0;n#div#1;n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#a#3;n#div#0;n#div#1;n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#a#4;n#div#0;n#div#1;n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#a#5;n#div#0;n#div#1;n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#a#0;n#div#1;n#div#1;n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#9;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#10;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#37627#37633#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/home/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="571">
@@ -897,33 +870,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/blogs/angular-4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="79" column="21" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="204" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/blogs/buying-camera.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="159">
           <caret line="108" column="49" lean-forward="false" selection-start-line="108" selection-start-column="49" selection-end-line="108" selection-end-column="49" />
           <folding>
             <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="126" column="20" lean-forward="false" selection-start-line="126" selection-start-column="9" selection-end-line="126" selection-end-column="20" />
-          <folding>
-            <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -943,6 +895,49 @@
             <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/blogs/angular-4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="80" column="17" lean-forward="true" selection-start-line="80" selection-start-column="17" selection-end-line="80" selection-end-column="17" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1890">
+          <caret line="126" column="20" lean-forward="false" selection-start-line="126" selection-start-column="9" selection-end-line="126" selection-end-column="20" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="113" column="0" lean-forward="true" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#7;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#9;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#10;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
