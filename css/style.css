@@ -792,7 +792,7 @@ p.section-paragraph {
 /*-----------------------------------------------------------------------------------*/
 
 .resume {
-    /* * blog-images source */
+    /* * img source */
     background-color: #f3f3f3;
     background-position: right top, right top;
     background-repeat: no-repeat, repeat;
@@ -863,7 +863,7 @@ p.section-paragraph {
 /*-----------------------------------------------------------------------------------*/
 
 .hire {
-    /* * blog-images source */
+    /* * img source */
     background-image: url("../images/speaking_1280_296.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;

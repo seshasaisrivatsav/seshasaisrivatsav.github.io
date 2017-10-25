@@ -191,16 +191,16 @@
 
     $(".arrow-slide .lines-break .arrow-left").on('click', function(){
 
-        $(".home .blog-images-home blog-images#home1").fadeIn();
-        $(".home .blog-images-home blog-images#home2, .home .blog-images-home blog-images#home3").fadeOut();
+        $(".home .img-home img#home1").fadeIn();
+        $(".home .img-home img#home2, .home .img-home img#home3").fadeOut();
         $(".arrow-slide .lines-break span").siblings().removeAttr("id","active");
         $(".arrow-slide .lines-break .arrow-left").attr("id","active");
     });
 
     $(".arrow-slide .lines-break .arrow-center").on('click', function(){
 
-        $(".home .blog-images-home blog-images#home2").fadeIn();
-        $(".home .blog-images-home blog-images#home1, .home .blog-images-home blog-images#home3").fadeOut();
+        $(".home .img-home img#home2").fadeIn();
+        $(".home .img-home img#home1, .home .img-home img#home3").fadeOut();
         $(".arrow-slide .lines-break span").siblings().removeAttr("id","active");
         $(".arrow-slide .lines-break .arrow-center").attr("id","active");
     });
@@ -208,8 +208,8 @@
 
     $(".arrow-slide .lines-break .arrow-right").on('click', function(){
 
-        $(".home .blog-images-home blog-images#home3").fadeIn();
-        $(".home .blog-images-home blog-images#home1, .home .blog-images-home blog-images#home2").fadeOut();
+        $(".home .img-home img#home3").fadeIn();
+        $(".home .img-home img#home1, .home .img-home img#home2").fadeOut();
         $(".arrow-slide .lines-break span").siblings().removeAttr("id","active");
         $(".arrow-slide .lines-break .arrow-right").attr("id","active");
     });
@@ -291,11 +291,11 @@
 
     });
 
-    $(".portfolio-item .portfolio-media .work-contents").outerHeight($(".portfolio-item .portfolio-media .work-blog-images blog-images").outerHeight());
+    $(".portfolio-item .portfolio-media .work-contents").outerHeight($(".portfolio-item .portfolio-media .work-img img").outerHeight());
 
     $(window).resize(function(){
 
-        $(".portfolio-item .portfolio-media .work-contents").outerHeight($(".portfolio-item .portfolio-media .work-blog-images blog-images").outerHeight());
+        $(".portfolio-item .portfolio-media .work-contents").outerHeight($(".portfolio-item .portfolio-media .work-img img").outerHeight());
 
     });
 
