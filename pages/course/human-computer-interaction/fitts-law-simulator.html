@@ -1,0 +1,155 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <!-- Meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Site Title -->
+    <title>Fitt's law simulator</title>
+
+    <!-- Site Logo -->
+    <link href="../../../images/projects/film_nerd_logo.jpg" rel="shortcut icon" type="image/x-icon">
+    <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,500,700" rel="stylesheet">
+    <link href="../../../css/ionicons.min.css" rel="stylesheet">
+    <link href="../../../css/bootstrap.css" rel="stylesheet">
+    <link href="../../../css/animate.css" rel="stylesheet">
+    <link href="../../../css/blog.css" rel="stylesheet">
+    <link href="../../../css/responsive.css" rel="stylesheet">
+
+    <!-- p5js -->
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.16/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.4.5/addons/p5.dom.js"></script>
+
+    <script src="sketch.js"></script>
+
+
+
+</head>
+
+<body>
+
+<!-- Start Navbar Menu -->
+
+<div class="menu-nav">
+
+    <nav class="navbar navbar-default">
+
+        <!-- Start Container 1 -->
+        <div class="container">
+
+            <div class="navbar-header"></div>
+
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="../../../portfolio.html">back To Home <i class="icon ion-minus"></i></a></li>
+                </ul>
+            </div>
+        </div>
+
+
+
+    </nav>
+
+</div>
+
+
+
+<!-- Start Course -->
+
+<div class="title-blog">
+    <div class="container">
+
+        <!-- Course Name -->
+        <div class="title-post">
+            <h2>Fiit's law simulator</h2>
+        </div>
+
+
+        <!-- Professor -->
+        <div class="info-blog">
+            <div class="admin">
+                <i class="icon ion-android-person"></i> <p> Author :  <a href="../../../portfolio.html">Sesha Sai Srivatsav</a></p>
+            </div>
+
+
+
+            <!-- Semester -->
+            <div class="time">
+                <i class="icon ion-calendar"></i> <p> Fall 2017</p>
+            </div>
+        </div>
+
+
+    </div>
+
+
+    <!-- Course Details -->
+    <div class="container">
+        <div class="box-content-post">
+
+            <!--About Course -->
+            <h2>Simulator</h2>
+
+            <div id="fitts-simulator"></div>
+
+            <h2>Sketch</h2>
+            <ol>
+                <li> <a href="https://p5js.org/reference/#/p5/createCanvas">Create a canvas</a> that is 640x480
+                </li><li>When the user <a href="https://p5js.org/reference/#/p5/mouseIsPressed">clicks their mouse</a> for the first time, start the simulation.
+                <ul>
+                    <li> Record the current time using the <a href="https://p5js.org/reference/#/p5/millis">millis</a> function.
+                    </li><li> Draw a square at a <a href="https://p5js.org/reference/#/p5/random">random</a> position.
+                    <ul>
+                        <li> The random x-coordinate will be between 0-600.
+                        </li><li> The random y-coordinate will be between 0-400.
+                    </li><li> The square size will be 40x40.
+                    </li><li> Record the <a href="https://p5js.org/reference/#/p5/mouseX">mouseX</a> and <a href="https://p5js.org/reference/#/p5/mouseY">mouseY</a> position at this time.
+                    </li></ul>
+                </li><li>Everytime the user presses their mouse, increment a counter.
+                    <ul>
+                        <li>If the user clicks in the box, then record how long it took.
+                            <ul>
+                                <li> Add this to an array data structure to store these times.
+                                </li><li> You add elements to arrays by '<a href="https://www.w3schools.com/js/js_array_methods.asp">pushing</a> them'
+                            </li></ul>
+                        </li><li> Calculate the <a href="https://p5js.org/reference/#/p5/dist">distance</a> from the previously recorded <a href="https://p5js.org/reference/#/p5/mouseX">mouseX</a> and <a href="https://p5js.org/reference/#/p5/mouseY">mouseY</a> variables. Push these values in a separate array.
+                    </li><li>If the user misses the square, tally that as an error.
+                    </li></ul>
+                </li></ul>
+            </li><li> For display you may find useful: <a href="https://p5js.org/reference/#/p5/text">text</a>
+            </li><li> Consult the <a href="https://p5js.org/reference/">Reference</a> for more commands and add at least one new element our <a href="https://p5js.org/libraries/">library</a> beyond what I have done.
+            </li></ol>
+
+        </div>
+
+
+    </div>
+
+
+
+
+</div>
+
+<!-- Start Footer -->
+<!--<div id="footer" class="footer">-->
+<!--<div class="container-fluid">-->
+<!--<p class="wow fadeInUp" data-wow-delay="0.5s">&copy; 2017 Sesha Sai Srivatsav., All Rights Reserved.</p>-->
+<!--</div>-->
+<!--</div>-->
+
+<!-- jQuery js -->
+<!-- jQuery js -->
+<script src="../../../js/jquery-3.1.1.min.js"></script>
+<script src="../../../js/bootstrap.js"></script>
+<!--<script src="../../js/custom.js"></script>-->
+
+
+</body>
+</html>

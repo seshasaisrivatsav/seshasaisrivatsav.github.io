@@ -2,186 +2,186 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15e555db-41f7-4148-b03f-21607ff3f566" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/animate.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/blog.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/ionicons.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/responsive.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/fonts-boostarp/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/fonts-boostarp/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/fonts-boostarp/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/fonts-boostarp/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/fonts-boostarp/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/fonts-ionicons/ionicons.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/fonts-ionicons/ionicons.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/fonts-ionicons/ionicons.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/fonts-ionicons/ionicons.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/css/clean-blog.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/css/clean-blog.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/js/clean-blog.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/js/clean-blog.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/js/contact_me.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/js/jqBootstrapValidation.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/mail/contact_me.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/scss/_bootstrap-overrides.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/scss/_contact.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/scss/_footer.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/scss/_global.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/scss/_masthead.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/scss/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/scss/_navbar.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/scss/_post.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/scss/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/scss/clean-blog.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/bootstrap/css/bootstrap-grid.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/bootstrap/css/bootstrap-grid.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/bootstrap/css/bootstrap-reboot.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/bootstrap/css/bootstrap-reboot.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/bootstrap/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/bootstrap/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/bootstrap/js/bootstrap.bundle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/bootstrap/js/bootstrap.bundle.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/bootstrap/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/bootstrap/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/css/font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/less/animated.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/less/bordered-pulled.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/less/core.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/less/fixed-width.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/less/font-awesome.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/less/icons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/less/larger.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/less/list.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/less/mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/less/path.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/less/rotated-flipped.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/less/screen-reader.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/less/stacked.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/less/variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/scss/_animated.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/scss/_bordered-pulled.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/scss/_core.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/scss/_fixed-width.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/scss/_icons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/scss/_larger.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/scss/_list.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/scss/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/scss/_path.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/scss/_rotated-flipped.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/scss/_screen-reader.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/scss/_stacked.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/scss/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/scss/font-awesome.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/jquery/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/jquery/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog-images/about-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog-images/camera/camera-brand.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog-images/contact-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog-images/home-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog-images/mean/Mean.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog-images/mean/homePage.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog-images/mean/mean.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog-images/post-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog-images/post-sample-image.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/dc_1280_690.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/Bootstrap.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/HTML5CSS3Logos.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/ScreenShot2017-10-21at5.46.07PM.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/Teradata.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/adobePremierPro.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/angular.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/aws-lambda.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/aws.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/css.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/css.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/dynamoDB.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/git.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/hadoop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/hadoop.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/html_5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/java_image.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/javascript.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/mongodb.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/mongodb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/mongodb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/mysql.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/mysql.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/pageRank.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/photoshop.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/scala.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/serverless.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/serverless.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/typescript.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/newport_pose_400_400.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/projects/PDF_Generator.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/projects/TA_Portal.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/projects/TA_Portal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/projects/WebAppMaker.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/projects/WebAppMaker2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/projects/WebAppMaker_New_logo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/projects/film_nerd_1280x450.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/projects/film_nerd_logo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/projects/film_nerd_movie_1280X450.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/projects/film_nerd_website.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/projects/hcms.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/projects/wtc_straight_pose.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/projects/wtc_straight_pose_1280_690.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/speaking_1280_296.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/subjects/Algo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/subjects/DBMS.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/subjects/HCI.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/subjects/MR.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/subjects/PDP.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/subjects/msd.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/images/subjects/web_development.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/suit_boot_1280_690.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/work_exp.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/wtc_background_1280_690.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/custom.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery-3.1.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/mixitup.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/nicescroll.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/typed.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/wow.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/HTML5CSS3Logos.svg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/pages/blogs/angular-4.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/blogs/blog-sample.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/blogs/buying-camera.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/course/algorithms.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/course/dbms.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/course/hci.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/course/mr.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/course/msd.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/course/pdp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/course/webdev.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/home/about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/home/blog-home.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/home/contact.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/responsive.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog-images/mean/homePage.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/pages/home/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/project/discarded.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/project/filmNerd.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/project/healthCareManagementSystem.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/project/pageRank.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/project/pdfGenerate.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/project/taPortal.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/scss/_path.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/css/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog-images/home-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/animate.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/dynamoDB.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/ionicons.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/mongodb.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/scss/clean-blog.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/subjects/msd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/projects/WebAppMaker_New_logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/scss/_bootstrap-overrides.scss" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/pages/project/webAppMaker.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/project/webAppMakerAngular4.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/course/mr.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/dc_1280_690.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/fonts-boostarp/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/subjects/MR.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/scss/_global.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/home/blog-home.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/project/healthCareManagementSystem.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/scss/_footer.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/mixitup.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/projects/hcms.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/bootstrap/css/bootstrap-reboot.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/less/path.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/speaking_1280_296.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/java_image.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/course/hci.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/typescript.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/blog.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/fonts-boostarp/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/fonts-ionicons/ionicons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/scss/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/course/msd.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/projects/WebAppMaker2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/Bootstrap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/mail/contact_me.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/adobePremierPro.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/aws-lambda.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/pageRank.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/subjects/PDP.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/scss/_fixed-width.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/scss/_larger.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/scss/_contact.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog-images/post-sample-image.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/subjects/HCI.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/serverless.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/less/core.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog-images/post-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/projects/wtc_straight_pose.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/scss/font-awesome.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/typed.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/js/clean-blog.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/less/screen-reader.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/scss/_animated.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/hadoop.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/scss/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/scss/_stacked.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/projects/film_nerd_logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/mysql.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/aws.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/hadoop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/fonts-ionicons/ionicons.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/blogs/buying-camera.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/scss/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/scss/_core.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/bootstrap/js/bootstrap.bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/project/taPortal.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/course/pdp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/projects/WebAppMaker.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/less/fixed-width.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/suit_boot_1280_690.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/projects/TA_Portal.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog-images/about-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/projects/film_nerd_website.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/scss/_icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/course/webdev.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/scss/_post.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/javascript.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/Teradata.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/subjects/Algo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/less/icons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/scss/_rotated-flipped.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/bootstrap/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/bootstrap/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/projects/PDF_Generator.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/subjects/DBMS.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/fonts-boostarp/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/jquery/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/mongodb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/less/mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/mongodb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/scala.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/less/font-awesome.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/bootstrap/css/bootstrap-grid.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/work_exp.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/jquery/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/scss/_masthead.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/project/webAppMakerAngular4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/home/about.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/bootstrap/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/wow.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/bootstrap/css/bootstrap-grid.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/git.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog-images/mean/Mean.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/bootstrap/js/bootstrap.bundle.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/scss/_bordered-pulled.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog-images/camera/camera-brand.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/scss/_navbar.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/bootstrap/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/css.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/wtc_background_1280_690.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/less/stacked.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/custom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/fonts-boostarp/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/blogs/blog-sample.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/css.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/fonts-ionicons/ionicons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/project/filmNerd.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery-3.1.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/fonts-ionicons/ionicons.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/less/rotated-flipped.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/html_5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/scss/_screen-reader.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/less/larger.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/angular.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/projects/film_nerd_1280x450.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog-images/mean/mean.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/js/jqBootstrapValidation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/fonts-boostarp/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/less/bordered-pulled.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/ScreenShot2017-10-21at5.46.07PM.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/less/list.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/less/variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/project/pageRank.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/home/contact.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/project/pdfGenerate.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/photoshop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/css/clean-blog.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog-images/contact-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/projects/TA_Portal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/newport_pose_400_400.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/course/algorithms.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/projects/film_nerd_movie_1280X450.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/course/dbms.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/js/contact_me.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/css/clean-blog.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/scss/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/less/animated.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/nicescroll.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/projects/wtc_straight_pose_1280_690.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/serverless.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/bootstrap/css/bootstrap-reboot.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/project/discarded.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/js/clean-blog.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/homePageStyleAndScripts/vendor/font-awesome/scss/_list.scss" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -195,7 +195,52 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1245">
+              <caret line="83" column="22" lean-forward="false" selection-start-line="83" selection-start-column="22" selection-end-line="83" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hci.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/course/hci.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="265">
+              <caret line="103" column="101" lean-forward="false" selection-start-line="103" selection-start-column="101" selection-end-line="103" selection-end-column="101" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fitts-law-simulator.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pages/course/human-computer-interaction/fitts-law-simulator.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="98" column="0" lean-forward="true" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
+              <folding>
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sketch.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/course/human-computer-interaction/sketch.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="172">
+              <caret line="83" column="35" lean-forward="false" selection-start-line="83" selection-start-column="31" selection-end-line="83" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -207,9 +252,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>resume</find>
-      <find>categ</find>
-      <find>12</find>
       <find>proj</find>
       <find>more on</find>
       <find>1280</find>
@@ -232,11 +274,14 @@
       <find>sesha</find>
       <find>project</find>
       <find>hr</find>
-      <find>projects</find>
       <find>portfol</find>
       <find>&lt;!--&lt;hr&gt;</find>
       <find>portfolio-media</find>
       <find>about</find>
+      <find>m</find>
+      <find>myp</find>
+      <find>projects</find>
+      <find>showData</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -261,7 +306,6 @@
         <option value="$PROJECT_DIR$/css/blog.css" />
         <option value="$PROJECT_DIR$/pages/course/algorithms.html" />
         <option value="$PROJECT_DIR$/pages/course/dbms.html" />
-        <option value="$PROJECT_DIR$/pages/course/hci.html" />
         <option value="$PROJECT_DIR$/pages/course/mr.html" />
         <option value="$PROJECT_DIR$/pages/course/pdp.html" />
         <option value="$PROJECT_DIR$/pages/course/webdev.html" />
@@ -285,6 +329,10 @@
         <option value="$PROJECT_DIR$/pages/blogs/angular-4.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/portfolio.html" />
+        <option value="$PROJECT_DIR$/pages/course/hci.html" />
+        <option value="$PROJECT_DIR$/pages/course/human-computer-interaction/sketch.js" />
+        <option value="$PROJECT_DIR$/pages/course/human-computer-interaction/in-class-activities.html" />
+        <option value="$PROJECT_DIR$/pages/course/human-computer-interaction/fitts-law-simulator.html" />
       </list>
     </option>
   </component>
@@ -326,6 +374,11 @@
             <path>
               <item name="www.seshasaisrivatsav.com" type="b2602c69:ProjectViewProjectNode" />
               <item name="www.seshasaisrivatsav.com" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="www.seshasaisrivatsav.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="www.seshasaisrivatsav.com" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -337,13 +390,14 @@
               <item name="www.seshasaisrivatsav.com" type="b2602c69:ProjectViewProjectNode" />
               <item name="www.seshasaisrivatsav.com" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="blogs" type="462c0819:PsiDirectoryNode" />
+              <item name="course" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="www.seshasaisrivatsav.com" type="b2602c69:ProjectViewProjectNode" />
               <item name="www.seshasaisrivatsav.com" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name="course" type="462c0819:PsiDirectoryNode" />
+              <item name="human-computer-interaction" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="www.seshasaisrivatsav.com" type="b2602c69:ProjectViewProjectNode" />
@@ -367,18 +421,19 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images/blog-images/mean" />
-      <recent name="$PROJECT_DIR$/pages/blogs" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/images/projects" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/pages/home" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/pages" />
       <recent name="$PROJECT_DIR$/pages/project" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pages/course/human-computer-interaction" />
+      <recent name="$PROJECT_DIR$/images/blog-images/mean" />
+      <recent name="$PROJECT_DIR$/pages/blogs" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/images/projects" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -410,16 +465,18 @@
       <workItem from="1508522533582" duration="39785000" />
       <workItem from="1508858079877" duration="9178000" />
       <workItem from="1508936433231" duration="4351000" />
+      <workItem from="1509116280380" duration="1782000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55394000" />
+    <option name="totallyTimeSpent" value="57176000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18181819" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18181819" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -448,20 +505,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/typed.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/ionicons.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/jquery-3.1.1.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -550,13 +593,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/course/hci.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="112" column="0" lean-forward="false" selection-start-line="112" selection-start-column="4" selection-end-line="116" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/course/mr.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="427">
@@ -582,10 +618,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="298">
           <caret line="948" column="25" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="1072" selection-end-column="7" />
-          <folding>
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -617,13 +649,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/homePageStyleAndScripts/js/clean-blog.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/homePageStyleAndScripts/js/clean-blog.js" />
     <entry file="file://$PROJECT_DIR$/images/blog-images/about-bg.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -634,122 +660,27 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/homePageStyleAndScripts/css/clean-blog.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-681">
-          <caret line="162" column="21" lean-forward="false" selection-start-line="162" selection-start-column="13" selection-end-line="162" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/homePageStyleAndScripts/css/clean-blog.css" />
     <entry file="file://$PROJECT_DIR$/pages/home/allblogs.html" />
-    <entry file="file://$PROJECT_DIR$/pages/home/blog-home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="44" column="36" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="174" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/blogs/blog-sample.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2610">
-          <caret line="174" column="0" lean-forward="true" selection-start-line="174" selection-start-column="0" selection-end-line="174" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/home/blog-home.html" />
+    <entry file="file://$PROJECT_DIR$/pages/blogs/blog-sample.html" />
     <entry file="file://$PROJECT_DIR$/pages/home/blog.html" />
-    <entry file="file://$PROJECT_DIR$/pages/home/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="571">
-          <caret line="201" column="13" lean-forward="false" selection-start-line="201" selection-start-column="13" selection-end-line="201" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/home/about.html" />
     <entry file="file://$PROJECT_DIR$/pages/home/styles.html" />
-    <entry file="file://$PROJECT_DIR$/homePageStyleAndScripts/js/clean-blog.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homePageStyleAndScripts/css/clean-blog.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="2800" lean-forward="false" selection-start-line="4" selection-start-column="2800" selection-end-line="4" selection-end-column="2800" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homePageStyleAndScripts/mail/contact_me.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homePageStyleAndScripts/js/contact_me.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/home/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1515">
-          <caret line="101" column="79" lean-forward="false" selection-start-line="101" selection-start-column="79" selection-end-line="101" selection-end-column="79" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/home/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/homePageStyleAndScripts/js/clean-blog.min.js" />
+    <entry file="file://$PROJECT_DIR$/homePageStyleAndScripts/css/clean-blog.min.css" />
+    <entry file="file://$PROJECT_DIR$/homePageStyleAndScripts/mail/contact_me.php" />
+    <entry file="file://$PROJECT_DIR$/homePageStyleAndScripts/js/contact_me.js" />
+    <entry file="file://$PROJECT_DIR$/pages/home/contact.html" />
+    <entry file="file://$PROJECT_DIR$/pages/home/styles.css" />
     <entry file="file://$PROJECT_DIR$/pages/blogs/buying-camera.css" />
-    <entry file="file://$PROJECT_DIR$/pages/blogs/buying-camera.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1620">
-          <caret line="108" column="49" lean-forward="false" selection-start-line="108" selection-start-column="49" selection-end-line="108" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/blogs/angular-4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="80" column="17" lean-forward="true" selection-start-line="80" selection-start-column="17" selection-end-line="80" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/home/blog-home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="96" column="0" lean-forward="true" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/blogs/buying-camera.html" />
+    <entry file="file://$PROJECT_DIR$/pages/blogs/angular-4.html" />
+    <entry file="file://$PROJECT_DIR$/pages/home/blog-home.html" />
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6567">
           <caret line="952" column="43" lean-forward="false" selection-start-line="952" selection-start-column="28" selection-end-line="952" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="91" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="262" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -757,7 +688,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4283">
           <caret line="297" column="108" lean-forward="false" selection-start-line="297" selection-start-column="93" selection-end-line="297" selection-end-column="108" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -765,25 +695,49 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js" />
     <entry file="file://$PROJECT_DIR$/portfolio.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="343">
           <caret line="329" column="30" lean-forward="true" selection-start-line="329" selection-start-column="30" selection-end-line="329" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1245">
+          <caret line="83" column="22" lean-forward="false" selection-start-line="83" selection-start-column="22" selection-end-line="83" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/course/hci.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="103" column="101" lean-forward="false" selection-start-line="103" selection-start-column="101" selection-end-line="103" selection-end-column="101" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/course/human-computer-interaction/sketch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="83" column="35" lean-forward="false" selection-start-line="83" selection-start-column="31" selection-end-line="83" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/course/human-computer-interaction/fitts-law-simulator.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="98" column="0" lean-forward="true" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
           <folding>
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
