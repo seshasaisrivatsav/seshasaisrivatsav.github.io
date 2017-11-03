@@ -18,3 +18,5 @@
     4. AWS Architecture = AWS Stack
     5. Make technologies. Remove “,”
     6. Received Shared Success Awards
+
+aws s3 sync . s3://www.seshasaisrivatsav.com/
