@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Sesha Sai Srivatsav -  Angular 4</title>
+    <title>Sesha Sai Srivatsav -  Create a brand new express app under 10 lines of code</title>
 
     <link href="../../../favicon.ico" rel="shortcut icon" type="image/x-icon">
 
@@ -85,16 +85,16 @@
 </nav>
 
 <!-- Page Header -->
-<header class="masthead" style="background-image: url('../../../images/blog-images/mean/Mean.jpg');       background-blend-mode: multiply; ">
+<header class="masthead" style="background-image: url('../../../images/blog-images/express/express.png');     background-blend-mode: multiply; ">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-md-10 mx-auto">
                 <div class="post-heading">
-                    <h1>Getting started with angular 4</h1>
-                    <h2 class="subheading">Working with MEAN Stack using Angular 4</h2>
+                    <h1>Getting started with express</h1>
+                    <h2 class="subheading">Creating an express app (APIs) under 10 lines of code</h2>
                     <span class="meta">Posted by
                 <a href="../../sesha-sai-srivatsav/about.html">Sesha Sai Srivatsav</a>
-                on August 24, 2017</span>
+                on November 11, 2017</span>
                 </div>
             </div>
         </div>
@@ -106,42 +106,77 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-md-10 mx-auto">
-               <p>Angular is a front end framework that powers many applications. In this articel we will help you get started build your own web app</p>
+               <p>APIs are super easy to create using express app</p>
                 <h2 class="section-heading">Getting started</h2>
 
                 <p>
-                    Initial Setup
+                    Create a directory
                 </p>
-
-
-
-                <p>Here is an example of the HTML we put in our page to show it:</p>
 
                 <pre>
                        <code>
-npm install
-git clone
+cd ~
+~$ mkdir testExpress
+~$ cd testExpress
+                       </code>
+                </pre>
+
+
+                <p>Install Express. The following command will create package json with express on it.
+                Make sure node.js is already installed</p>
+
+                <pre>
+                       <code>
+~$ node --version
+v6.11.3
+
+~$ npm install express --save
+                       </code>
+                </pre>
+
+
+                <p>We will create server</p>
+
+                <pre>
+                       <code>
+~$ vi server.js
                        </code>
                 </pre>
 
 
 
-                <h2 class="section-heading">Running the Client </h2>
+                <p>Insert the following code in server.js and save the file</p>
 
-                <p>We run npm start </p>
+                <pre>
+                       <code>
+var express = require('express');
+var app = express();
 
+app.get('/api/test', function (req, res){
+	res.send({'message': 'hello'})
+})
+
+app.listen(4000);
+                       </code>
+                </pre>
+
+               <p>Running the server</p>
+                <pre>
+                       <code>
+~$ node server.js
+                       </code>
+                </pre>
+
+
+                <p>You can test the API either on google chrome or on postman</p>
                 <a href="#">
-                    <img class="img-fluid" src="../../../images/blog-images/mean/homePage.png" alt="home page">
+                    <img class="img-fluid" src="../../../images/blog-images/express/working_express.png" alt="home page">
                 </a>
+
 
                 <span class="caption text-muted">After running the code, this is what you see.</span>
 
 
-                <h2 class="section-heading">Running the Server </h2>
-
-                <code>node server.js</code>
-
-                <p>First you create server.js file in the project</p>
 
 
             </div>

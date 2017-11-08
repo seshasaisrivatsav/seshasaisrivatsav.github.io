@@ -19,4 +19,9 @@
     5. Make technologies. Remove “,”
     6. Received Shared Success Awards
 
+git add .
+git commit -m "added a blog "
+git push origin master
 aws s3 sync . s3://www.seshasaisrivatsav.com/
+aws s3 sync . s3://www.sesha.me/
+aws s3 sync . s3://sesha.me/
