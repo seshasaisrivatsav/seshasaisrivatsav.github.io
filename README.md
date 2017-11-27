@@ -20,7 +20,7 @@
     6. Received Shared Success Awards
 
 git add .
-git commit -m "added a blog "
+git commit -m "changed URL to TA Portal "
 git push origin master
 aws s3 sync . s3://www.seshasaisrivatsav.com/
 aws s3 sync . s3://www.sesha.me/
