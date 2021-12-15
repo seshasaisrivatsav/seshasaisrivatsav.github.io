@@ -1,48 +1,28 @@
-/* 
-    -------------------------------------------------------------------------------
-
-    * Template Name: Oki Theme
-    * Template URI: oki-manteqy-demo.bitballoon.com
-    * Author: Echafiai youssef
-    * Author URI: https://themeforest.net/user/manteqy_studio
-    * Description: Oki - Responsive HTML5 Landing Page Personal Template
-    * Version: 1.0
-    * License: GPL v2 or later
-    * License URI: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
-    * Tags: template, portfolio, marketing, designer, personal, Agency
-
-    -------------------------------------------------------------------------------
-*/
-
-/* 
-    -------------------------------------------------------------------------------
-
-    * 01. Start GLOBAL CSS Style
-    * 02. Start Page Loader  
-    * 03. Start Top Search
-    * 04. Start Navigation Menu
-    * 05. Start Home Page
-    * 06. Start About
-    * 07. Start Services
-    * 08. Start Resume
-    * 09. Start Hire Me
-    * 10. Start My Portfolio  
-    * 11. Start My Blogs  
-    * 12. Start Contact Me  
-    * 13. Start Footer  
-    * 14. Start End  
-
-    -------------------------------------------------------------------------------
+/*
+    01. Start GLOBAL CSS Style
+    02. Start Page Loader - Removed
+    03. Start Top Search
+    04. Start Navigation Menu
+    05. Start Home Page
+    06. Start About
+    07. Start Services
+    08. Start Resume
+    09. Start Hire Me
+    10. Start My Portfolio
+    11. Start My Blogs
+    12. Start Contact Me
+    13. Start Footer
+    14. Start End
 */
 
 /*-----------------------------------------------------------------------------------*/
 /*  0 - My Styling
 /*--------------------------------------------------------------------------------*/
-.myButton{
+.myButton {
     color: white;
 }
 
-.myResumeButton{
+.myResumeButton {
     color: black;
     visibility: visible;
     animation-duration: 0.5s;
@@ -69,9 +49,10 @@
     transition: all 0.5s ease 0s;
 }
 
-.downloadCVButton{
+.downloadCVButton {
     color: black;
 }
+
 /*-----------------------------------------------------------------------------------*/
 /*  1 - Start GENERAL STYLING
 /*-----------------------------------------------------------------------------------*/
@@ -87,15 +68,16 @@ img {
     width: 100%;
 }
 
-:after, :before {
+:after,
+:before {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
 
-textarea { 
+textarea {
     resize: vertical;
-} 
+}
 
 .section-padding {
     padding: 70px 0;
@@ -140,51 +122,8 @@ p.section-paragraph {
     margin: auto;
     line-height: 2;
 }
-
 /*-----------------------------------------------------------------------------------*/
-/*  2 - Start Page Loader 
-/*-----------------------------------------------------------------------------------*/
-
-/*.loader {*/
-    /*background-color: #ffffff;*/
-    /*bottom: 0;*/
-    /*height: 100%;*/
-    /*left: 0;*/
-    /*position: fixed;*/
-    /*right: 0;*/
-    /*top: 0;*/
-    /*width: 100%;*/
-    /*z-index: 9999;*/
-/*}*/
-
-/*.loader-inner {*/
-    /*left: 0;*/
-    /*position: absolute;*/
-    /*top: 50%;*/
-    /*width: 100%;*/
-    /*text-align: center;*/
-    /*-webkit-transform: translateY(-50%);*/
-    /*-moz-transform: translateY(-50%);*/
-    /*-ms-transform: translateY(-50%);*/
-    /*-o-transform: translateY(-50%);*/
-    /*transform: translateY(-50%);*/
-/*}*/
-
-/*.loader-inner span {*/
-    /*font-family: 'Raleway', sans-serif;*/
-    /*font-size: 50px;*/
-    /*letter-spacing: 10px;*/
-    /*text-transform: uppercase;*/
-    /*color: #404040;*/
-    /*transition: all 0.5s ease 0s;*/
-/*}*/
-
-/*#loader-typed-strings h2 {*/
-    /*visibility: hidden;*/
-/*}*/
-
-/*-----------------------------------------------------------------------------------*/
-/*  3 -  Start Top Search  
+/*  3 -  Start Top Search
 /*-----------------------------------------------------------------------------------*/
 
 .top-search {
@@ -230,28 +169,28 @@ p.section-paragraph {
     font-size: 20px;
 }
 
-.top-search form .search::-webkit-input-placeholder {  
-  color: white;
+.top-search form .search::-webkit-input-placeholder {
+    color: white;
 }
 
-.top-search form .search::-moz-placeholder {  
-  color: white;
+.top-search form .search::-moz-placeholder {
+    color: white;
 }
 
-.top-search form .search:-ms-input-placeholder {  
-  color: white;
+.top-search form .search:-ms-input-placeholder {
+    color: white;
 }
 
-.top-search form .search:-moz-placeholder {  
-  color: white;
+.top-search form .search:-moz-placeholder {
+    color: white;
 }
 
 .top-search form .search::placeholder {
-  color: white;
-} 
+    color: white;
+}
 
 /*-----------------------------------------------------------------------------------*/
-/*  4 - Start Navigation Bar | Menu 
+/*  4 - Start Navigation Bar | Menu
 /*-----------------------------------------------------------------------------------*/
 
 .menu-nav {
@@ -277,7 +216,8 @@ p.section-paragraph {
     text-align: center;
 }
 
-.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+.navbar-default .navbar-toggle:focus,
+.navbar-default .navbar-toggle:hover {
     background-color: transparent;
 }
 
@@ -295,7 +235,7 @@ p.section-paragraph {
     color: white;
 }
 
-.navbar-default .navbar-brand  span.color-point {
+.navbar-default .navbar-brand span.color-point {
     color: #d9bf77;
 }
 
@@ -350,7 +290,7 @@ p.section-paragraph {
 }
 
 /*-----------------------------------------------------------------------------------*/
-/*  5 - Start Home Page 
+/*  5 - Start Home Page
 /*-----------------------------------------------------------------------------------*/
 
 .home {
@@ -364,7 +304,8 @@ p.section-paragraph {
     height: 100%;
 }
 
-.home .img-home img#home1, .home .img-home img#home3 {
+.home .img-home img#home1,
+.home .img-home img#home3 {
     display: none;
 }
 
@@ -426,7 +367,7 @@ p.section-paragraph {
 
 .home .box-home button:hover {
     background-color: #f2d47d;
-    border-color:#f2d47d;
+    border-color: #f2d47d;
 }
 
 .home .arrow-slide {
@@ -474,64 +415,65 @@ p.section-paragraph {
 }
 
 .zooming {
-    -webkit-animation:zooming 18s infinite both;
-    -moz-animation:zooming 18s infinite both;
-    -ms-animation:zooming 18s infinite both;
-    -o-animation:zooming 18s infinite both;
-    animation:zooming 18s infinite both;
+    -webkit-animation: zooming 18s infinite both;
+    -moz-animation: zooming 18s infinite both;
+    -ms-animation: zooming 18s infinite both;
+    -o-animation: zooming 18s infinite both;
+    animation: zooming 18s infinite both;
 }
 
 @-moz-keyframes zooming {
-    
-    0% {-webkit-transform:scale(1, 1);
-    -moz-transform:scale(1, 1);
-      -ms-transform:scale(1, 1);
-      -o-transform:scale(1, 1);
-      transform:scale(1, 1)
-      }
-    
-      50% {
-       -webkit-transform:scale(1.1, 1.1);
-       -moz-transform:scale(1.1, 1.1);
-       -ms-transform:scale(1.1, 1.1);
-       -o-transform:scale(1.1, 1.1);
-       transform:scale(1.1, 1.1)
-       }
-    
-       100%{
-       -webkit-transform:scale(1, 1);
-       -moz-transform:scale(1, 1);
-       -ms-transform:scale(1, 1);
-       -o-transform:scale(1, 1);
-       transform:scale(1, 1)
+
+    0% {
+        -webkit-transform: scale(1, 1);
+        -moz-transform: scale(1, 1);
+        -ms-transform: scale(1, 1);
+        -o-transform: scale(1, 1);
+        transform: scale(1, 1)
     }
-    
- }
-       
+
+    50% {
+        -webkit-transform: scale(1.1, 1.1);
+        -moz-transform: scale(1.1, 1.1);
+        -ms-transform: scale(1.1, 1.1);
+        -o-transform: scale(1.1, 1.1);
+        transform: scale(1.1, 1.1)
+    }
+
+    100% {
+        -webkit-transform: scale(1, 1);
+        -moz-transform: scale(1, 1);
+        -ms-transform: scale(1, 1);
+        -o-transform: scale(1, 1);
+        transform: scale(1, 1)
+    }
+
+}
+
 @keyframes zooming {
 
-    0%{
-        -webkit-transform:scale(1, 1);
-        -moz-transform:scale(1, 1);
-        -ms-transform:scale(1, 1);
-        -o-transform:scale(1, 1);
-        transform:scale(1, 1)
-      }
-
-   50%{
-       -webkit-transform:scale(1.1, 1.1);
-       -moz-transform:scale(1.1, 1.1);
-       -ms-transform:scale(1.1, 1.1);
-       -o-transform:scale(1.1, 1.1);
-       transform:scale(1.1, 1.1)
+    0% {
+        -webkit-transform: scale(1, 1);
+        -moz-transform: scale(1, 1);
+        -ms-transform: scale(1, 1);
+        -o-transform: scale(1, 1);
+        transform: scale(1, 1)
     }
 
-    100%{
-        -webkit-transform:scale(1, 1);
-        -moz-transform:scale(1, 1);
-        -ms-transform:scale(1, 1);
-        -o-transform:scale(1, 1);
-        transform:scale(1, 1)
+    50% {
+        -webkit-transform: scale(1.1, 1.1);
+        -moz-transform: scale(1.1, 1.1);
+        -ms-transform: scale(1.1, 1.1);
+        -o-transform: scale(1.1, 1.1);
+        transform: scale(1.1, 1.1)
+    }
+
+    100% {
+        -webkit-transform: scale(1, 1);
+        -moz-transform: scale(1, 1);
+        -ms-transform: scale(1, 1);
+        -o-transform: scale(1, 1);
+        transform: scale(1, 1)
     }
 }
 
@@ -540,9 +482,10 @@ p.section-paragraph {
 /*  6 - Start About
 /*-----------------------------------------------------------------------------------*/
 
-.about{
+.about {
     background-color: #f3f3f3;
 }
+
 .lines-about span.line {
     width: 20px;
     height: 20px;
@@ -560,18 +503,18 @@ p.section-paragraph {
 }
 
 @keyframes change-place-1 {
-    
+
     form {
-        transform:translate3d(0, 0, 0);
-        -webkit- transform:translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+        -webkit-transform: translate3d(0, 0, 0);
     }
-    
+
     to {
-        transform:translate3d(0px, 400px, 0px);
-        -webkit- transform:translate3d(0px, 400px, 0px);
+        transform: translate3d(0px, 400px, 0px);
+        -webkit-transform: translate3d(0px, 400px, 0px);
         box-shadow: 0 6px 13px rgba(0, 0, 0, 0.15);
     }
-    
+
 }
 
 .lines-about span.line:nth-child(2) {
@@ -583,21 +526,21 @@ p.section-paragraph {
 #chnage-place-2 {
     animation: change-place-2 3s 1 both;
 }
- 
+
 @keyframes change-place-2 {
-    
+
     form {
-        transform:translate3d(0, 0, 0);
-        -webkit- transform:translate3d(0, 0, 0);
-        
+        transform: translate3d(0, 0, 0);
+        -webkit-transform: translate3d(0, 0, 0);
+
     }
-    
+
     to {
-        transform:translate3d(0px, 50px, 0px);
-        -webkit- transform:translate3d(0px, 50px, 0px);
-        
+        transform: translate3d(0px, 50px, 0px);
+        -webkit-transform: translate3d(0px, 50px, 0px);
+
     }
-    
+
 }
 
 .lines-about span.line:nth-child(3) {
@@ -613,19 +556,19 @@ p.section-paragraph {
 }
 
 @keyframes change-place-3 {
-    
+
     form {
-        transform:translate3d(0px, 0px, 0px) scaleZ(1);
-        -webkit- transform:translate3d(0px, 0px, 0px) scaleZ(1); 
-        
+        transform: translate3d(0px, 0px, 0px) scaleZ(1);
+        -webkit-transform: translate3d(0px, 0px, 0px) scaleZ(1);
+
     }
-    
+
     to {
-        transform:translate3d(0px, -483px, 0px) scaleZ(3);
-        -webkit- transform:translate3d(0px, -483px, 0px) scaleZ(3); 
+        transform: translate3d(0px, -483px, 0px) scaleZ(3);
+        -webkit-transform: translate3d(0px, -483px, 0px) scaleZ(3);
         border-color: #FFEB3B;
     }
-    
+
 }
 
 .lines-about span.line:nth-child(4) {
@@ -644,19 +587,19 @@ p.section-paragraph {
 }
 
 @keyframes change-place-4 {
-    
+
     form {
-        transform:translate3d(0px, 0px, 0px) rotateZ(0deg);
-        -webkit- transform:translate3d(0px, 0px, 0px) rotateZ(0deg); 
-        
+        transform: translate3d(0px, 0px, 0px) rotateZ(0deg);
+        -webkit-transform: translate3d(0px, 0px, 0px) rotateZ(0deg);
+
     }
-    
+
     to {
-        transform:translate3d(0px, -350px, 0px) rotateZ(260deg);
-        -webkit- transform:translate3d(0px, -350px, 0px) rotateZ(260deg); 
+        transform: translate3d(0px, -350px, 0px) rotateZ(260deg);
+        -webkit-transform: translate3d(0px, -350px, 0px) rotateZ(260deg);
         box-shadow: 0 6px 13px rgba(0, 0, 0, 0.15);
     }
-    
+
 }
 
 .lines-about span.line:nth-child(5) {
@@ -664,27 +607,27 @@ p.section-paragraph {
     width: 50px;
     background: transparent;
     border: 1px solid #FFEB3B;
-    border-radius: 50%; 
+    border-radius: 50%;
 }
 
 #chnage-place-5 {
     animation: change-place-5 4s 1 both;
 }
- 
+
 @keyframes change-place-5 {
-    
+
     form {
-        transform:translate3d(0, 0, 0);
-        -webkit- transform:translate3d(0, 0, 0);
-        
+        transform: translate3d(0, 0, 0);
+        -webkit-transform: translate3d(0, 0, 0);
+
     }
-    
+
     to {
-        transform:translate3d(0px, 400px, 0px);
-        -webkit- transform:translate3d(0px, 400px, 0px);
-        
+        transform: translate3d(0px, 400px, 0px);
+        -webkit-transform: translate3d(0px, 400px, 0px);
+
     }
-    
+
 }
 
 .about .picture-personal {
@@ -762,19 +705,16 @@ p.section-paragraph {
 }
 
 @keyframes border-colors {
-    
     0% {
         border-color: #f2d47d;
     }
-    
     50% {
         border-color: #de8484;
     }
-    
     100% {
         border-color: #7bc4af;
     }
-    
+
 }
 
 /*-----------------------------------------------------------------------------------*/
@@ -937,12 +877,10 @@ p.section-paragraph {
 }
 
 /*-----------------------------------------------------------------------------------*/
-/*  10 -  Start My Portfolio  
+/*  10 -  Start My Portfolio
 /*-----------------------------------------------------------------------------------*/
 
-.portfolio {
-
-}
+.portfolio {}
 
 
 .portfolio .contents-titles-section {
@@ -1033,7 +971,7 @@ p.section-paragraph {
 }
 
 /*-----------------------------------------------------------------------------------*/
-/*  11 -  Start My Blogs  
+/*  11 -  Start My Blogs
 /*-----------------------------------------------------------------------------------*/
 
 .blogs {
@@ -1094,7 +1032,7 @@ p.section-paragraph {
 }
 
 /*-----------------------------------------------------------------------------------*/
-/*  12 -  Start Contact Me  
+/*  12 -  Start Contact Me
 /*-----------------------------------------------------------------------------------*/
 
 .contact .container:nth-of-type(2) {
@@ -1143,14 +1081,14 @@ p.section-paragraph {
     height: 210px;
 }
 
-.contact form input::-webkit-input-placeholder, 
-.contact form textarea.form-control::-webkit-input-placeholder { 
+.contact form input::-webkit-input-placeholder,
+.contact form textarea.form-control::-webkit-input-placeholder {
     color: black;
     opacity: 1 !important;
     transition: all 0.5s ease;
 }
 
-.contact form input:focus::-webkit-input-placeholder, 
+.contact form input:focus::-webkit-input-placeholder,
 .contact form textarea.form-control:focus::-webkit-input-placeholder {
     color: black;
     opacity: 1 !important;
@@ -1200,7 +1138,7 @@ p.section-paragraph {
 
 
 /*-----------------------------------------------------------------------------------*/
-/*  13 - Footer  
+/*  13 - Footer
 /*-----------------------------------------------------------------------------------*/
 
 .footer {
@@ -1222,9 +1160,9 @@ p.section-paragraph {
 }
 
 .footer .social-media li a {
-	transition: all 0.5s ease 0s;
+    transition: all 0.5s ease 0s;
     font-size: 22px;
-	color: #fff;
+    color: #fff;
 }
 
 .footer .social-media li a:hover {

@@ -1,15 +1,18 @@
 const indexPage = {
     aboutMe: {
-        masters: "I am a Masters student at Northeastern University and am expected to graduate in Dec 2017 and available to work from Jan 2018." +
-            "As a student, I developed interest on Web Development using Angular 1/2/4, Software Development and problem solving." +
-            "I am passionate about Software Engineering and Full Stack Development.",
+        constantContact: "As a Full Stack Engineer at Constant Contact, an email marketing company, I work on a team that works on parts of the product that get" +
+            "~80-90% of traffic. I've had a great opportunity to work on almost everything in the product lifecycle from being part of UX research calls, story refinement, " +
+            "front end, backend, integration testing and mentoring interns and new team members. It's gratifying to build marketing solutions that serve small businesses using " +
+            "technologies like React, Angular, Spring Boot, AWS, HTML, CSS.",
+        masters: "Pursuing Masters in Computer Science at Northeastern University peaked my interest for Software and Web Development. I had the pleasure to work for my professor to build Teaching Assistants portal " +
+            "and also work on my own projects to build a movie rating site - Film Nerd",
         newYorkLife: "As a Cloud Software Engineer Intern at New York Life, I worked on building Insurance as a Service platform using Angular 2/4 using AWS Tech Stack (EC2, S3, Lambda, ECS, API Gateway), JavaScript, CSS, Bootstrap, DynamoDB, mySQL, database design and modeling." +
             "Working in all these varied areas across teams gave me extensive experience in the entire SDLC process of building full stack applications on the cloud.",
         wellsFargo: "I worked as Database Analyst at Wells Fargo for 2.5 years where I primarily served Teradata and Aster database applications (using SQL, Shell/Bash Scripting, Autosys and Teradata Tools and Utilities 14.0)." +
             "During this tenure, I worked with application teams providing them database support with Query Tuning, Database design, data migration etc." +
             "I also received 22 shared success awards during this period.",
-        hobbies: "While I enjoy a great movie, I like to go outdoors for photography and traveling. I also am a budding cook and an amateur guitarist." +
-            " post videos on YouTube and aspire to work on my hobbies once I graduate."
+        hobbies: "While I enjoy a watching a nice movie, I like to go outdoors for photography and traveling. I also am a budding cook, amateur guitarist and a certified fitness trainer." +
+            "I also make videos and have made a few short films that I post to YouTube (checkout my social pages linked on this site)."
     },
     links: {
         resume: "https://docs.google.com/document/d/1g3P8X02bR3nBqrEMv9ARQnmea8imoptReW6ZUmEOuAE/edit?usp=sharing",
@@ -27,8 +30,46 @@ const indexPage = {
             img3_wtcBackdrop: "images/wtc_background_1280_690.jpg",
         }
     },
-    footer: {
-
+    workExperience: {
+        constantContactII: {
+            name: "Constant Contact",
+            fromDate: "Mar 2020",
+            toDate: "Current",
+            title: "Software Engineer II",
+            description: "Collaborated with teams to design and implement COVID dashboard (using React, Spring and AWS) that allowed small businesses to schedule campaigns during the 2020 pandemic. " +
+                "Mentoring Junior Software Engineers and interns with tech walk throughs and code reviews. " +
+                "Designed and delivered marketing calendar feature that allows users to manage their marketing emails on custom built calendar with react front end and AWS backend." +
+                "Resurrected a derelict migration service app to move data between internal services and from AWS using custom quartz scheduler to facilitate campaign migration for 100k accounts that use placeholder campaigns in AWS.",
+        },
+        constantContact: {
+            name: "Constant Contact",
+            fromDate: "Jan 2018",
+            toDate: "Mar 2020",
+            title: "Software Engineer",
+            description: "Worked on Facebook integration with Constant Contact that gives users ability to send, view and receive Instagram and Facebook messages in product using FB webhooks." +
+                "Ensuring high test coverage using Jest, Junit, Jasmine and also worked on integration testing using protractor.",
+        },
+        northeastern: {
+            name: "Northeastern University",
+            fromDate: "Sep 2017",
+            toDate: "Dec 2017",
+            title: "Graduate Teaching Assistant",
+            description: "Designed the course Web Development graduate course CS 5610 with Prof. Jose. Designed final project and seed project for course references",
+        },
+        nyl: {
+            name: "NewYork Life Insurance",
+            fromDate: "Jan 2017",
+            toDate: "Aug 2017",
+            title: "Cloud Software Engineer Intern",
+            description: "Leveraged AWS services to develop Insurance as a Service Platform using Angular 2 and PrimeNG frameworks primarily for Compensation and Billing team. Automated PDF creation for bill generation with policy data from DyanamoDB. Developed micro services and deployed them on AWS ECS for scalability. Field Marshal for Data Analysis team, responsible for migration from DynamoDB to MongoDB.",
+        },
+        wellsFargo: {
+            name: "Wells Fargo",
+            fromDate: "Jul 2013",
+            toDate: "Dec 2015",
+            title: "Database Administrator",
+            description: "Improved the system performance by implementing ‘Automated Catalog Vacuum’ using Shell Scripting for Aster Database that reduced the failing SQL-MR queries. The automation saved $6090 annually for the company. Implemented BAR (Backup Archive Recovery) Tasks, Worked on Physical, Incremental Backups to Aster Backup manager and Data copy between Teradata to Aster and Aster to Aster and Aster and Hadoop.",
+        }
     }
 }
 
@@ -70,6 +111,8 @@ const navBarAndLinks = () => {
     let footerLinkedin = document.getElementById("footer-linkedin");
     let footerTwitter = document.getElementById("footer-twitter");
 
+    let moreOnResume = document.getElementById("more-on-resume");
+
     // Nav Bar
     navBarGithub.setAttribute("href", indexPage.links.github);
     navBarLinkedin.setAttribute("href", indexPage.links.linkedin);
@@ -89,22 +132,114 @@ const navBarAndLinks = () => {
     footerGithub.setAttribute("href", indexPage.links.github);
     footerLinkedin.setAttribute("href", indexPage.links.linkedin);
     footerTwitter.setAttribute("href", indexPage.links.twitter);
+
+    // more
+    moreOnResume.setAttribute("href", indexPage.links.resume);
 }
 
 const content = () => {
+    let constantContactExp = document.getElementById("constant-contact-exp");
     let mastersStudent = document.getElementById("masters-student");
     let newYorkLife = document.getElementById("newyork-life");
     let wellsFargo = document.getElementById("wells-fargo");
     let hobbies = document.getElementById("hobbies");
 
+    setContent(constantContactExp, indexPage.aboutMe.constantContact);
     setContent(mastersStudent, indexPage.aboutMe.masters);
     setContent(newYorkLife, indexPage.aboutMe.newYorkLife);
     setContent(wellsFargo, indexPage.aboutMe.wellsFargo);
     setContent(hobbies, indexPage.aboutMe.hobbies);
 }
 
+const createWorkElement = (work) => {
+   return `<div class='col-xs-12 col-sm-12 col-md-12 col-lg-12'>
+                      <div class='resume-item'>
+                          <div class='col-xs-4 col-sm-4 col-md-4 col-lg-4 box-resume-left'>
+                              <div class='resume-left-item'>
+                                  <h2>${work.name}</h2>
+                                  <p><span class='color-me'>from</span> ${work.fromDate} <span class='color-me'>to</span> ${work.toDate}</p>
+                              </div>
+                          </div>
+                          <div class='col-xs-8 col-sm-8 col-md-8 col-lg-8 box-resume-right'>
+                              <div class='resume-right-item'>
+                                  <h2 class='job-title'>${work.title}</h2>
+                                  <p class='job-description'>${work.description} </p>
+                              </div>
+                          </div>
+                      </div>
+                  </div>`
+}
+
+const createWorkExperiences = () => {
+    const workExperienceContainer = document.getElementById("work-experience-container");
+    workExperienceContainer.innerHTML = createWorkElement(indexPage.workExperience.constantContactII);
+    workExperienceContainer.innerHTML += createWorkElement(indexPage.workExperience.constantContact);
+    workExperienceContainer.innerHTML += createWorkElement(indexPage.workExperience.northeastern);
+    workExperienceContainer.innerHTML += createWorkElement(indexPage.workExperience.nyl);
+    workExperienceContainer.innerHTML += createWorkElement(indexPage.workExperience.wellsFargo);
+}
+////////////////////////////////////////// vv SKILLS  START vv /////////////////////////////////////////////////////////
+const getTechSkill = (id, name, src, href) => { return {id: id, name: name, src: src, href: href};}
+const generateSkillsInDiv = (div, skills) => {
+    for (let skill of skills) {
+        div.innerHTML +=
+            `<div class='col-xs-4 col-sm-2 col-md-2 col-lg-2 box-service'> 
+                <div class='service-item'> 
+                    <a href=${skill.href} > <img alt=${skill.name} src=${skill.src} style='{height: 10px;}'> </a>
+                 </div>
+             </div>`
+    }
+}
+const generateRowOneTechSkills = () => {
+    // ROW 1 - 1. React 2. JavaScript 3.HTML 4.CSS 5. Angular 6.Jquery
+    const techSkillsDiv1 = document.getElementById("technical-skills-1");
+    let techSkills1 = [
+        getTechSkill(0, "react", "images/logos/reactLogo.jpeg", "https://reactjs.org/"),
+        getTechSkill(1, "javascript", "images/logos/javascript.png", "https://www.javascript.com/"),
+        getTechSkill(2, "html", "images/logos/html_5.png", "https://www.w3.org/html/"),
+        getTechSkill(3, "css", "images/logos/css.jpg", "https://developer.mozilla.org/en-US/docs/Web/CSS"),
+        getTechSkill(4, "angular", "images/logos/angular.png", "https://developer.mozilla.org/en-US/docs/Web/CSS"),
+        getTechSkill(5, "jQuery", "images/logos/jquery.png", "https://jquery.com/"),
+    ];
+    generateSkillsInDiv(techSkillsDiv1, techSkills1);
+};
+
+const generateRowTwoTechSkills = () => {
+    // ROW 2 - 1. Java, 2. Spring Boot, 3. Spring MVC, 4. mySQL, 5. mongoDB 6. Teradata
+    const techSkillsDiv2 = document.getElementById("technical-skills-2");
+    let techSkills2 = [
+        getTechSkill(0, "java", "images/logos/java_image.jpg", "https://www.java.com/en/"),
+        getTechSkill(1, "springBoot", "images/logos/springBoot.png", "https://spring.io/projects/spring-boot"),
+        getTechSkill(2, "springMvc", "images/logos/springMvc.png", "https://docs.spring.io/spring-framework/docs/current/reference/html/"),
+        getTechSkill(3, "mySQL", "images/logos/mysql.jpg", "https://www.mysql.com/"),
+        getTechSkill(4, "mongoDB", "images/logos/mongodb.png", "https://www.mongodb.com/"),
+        getTechSkill(5, "teradata", "images/logos/Teradata.jpg", "http://teradata.com/")
+    ];
+    generateSkillsInDiv(techSkillsDiv2, techSkills2);
+}
+const generateRowThreeTechSkills = () => {
+    // ROW 3 - 1. AWS 2. Serverless 3. AWS Lambda 3. DynamoDB 4. Github 5. Jira 6. Adobe
+    // FUTURE - adobe premiere pro, photoshop, after effect
+    const techSkillsDiv3 = document.getElementById("technical-skills-3");
+    let techSkills3 = [
+        getTechSkill(0, "aws", "images/logos/aws.png", "https://aws.amazon.com/"),
+        getTechSkill(1, "awsLambda", "images/logos/aws-lambda.jpg", "https://aws.amazon.com/lambda/"),
+        getTechSkill(2, "awsdynamoDB", "images/logos/dynamoDB.jpg", "https://aws.amazon.com/dynamodb/"),
+        getTechSkill(3, "github", "images/logos/git.png", "https://github.com/seshasaisrivatsav/"),
+        getTechSkill(4, "jira", "images/logos/jira.png", "https://www.atlassian.com/software/jira"),
+        getTechSkill(5, "photoshop", "images/logos/photoshop.png", "https://www.adobe.com/products/photoshop.html")
+    ];
+    generateSkillsInDiv(techSkillsDiv3, techSkills3);
+};
+////////////////////////////////////////// ^^ SKILLS  END ^^ ///////////////////////////////////////////////////////////
+
+
 window.addEventListener('DOMContentLoaded', () => {
     // setImages(); TODO: fix such that we dynamically update images
     navBarAndLinks();
     content();
+    generateRowOneTechSkills();
+    generateRowTwoTechSkills();
+    generateRowThreeTechSkills();
+    createWorkExperiences();
 });

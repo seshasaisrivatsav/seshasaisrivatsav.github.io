@@ -2,10 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15e555db-41f7-4148-b03f-21607ff3f566" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logos/jira.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logos/jquery.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logos/reactLogo.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logos/reactLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logos/springBoot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logos/springMvc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/project/filmNerdReact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/custom.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,11 +31,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="836" />
   </component>
   <component name="ProjectId" id="22KLhckIQKGzDFkLMoHJ95xftp1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -55,18 +58,18 @@
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images/blog-images/express" />
-      <recent name="$PROJECT_DIR$/images" />
-      <recent name="$PROJECT_DIR$/pages/home" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/pages" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/pages/sesha-sai-srivatsav/technical" />
       <recent name="$PROJECT_DIR$/pages/course/human-computer-interaction" />
       <recent name="$PROJECT_DIR$/images/blog-images/mean" />
       <recent name="$PROJECT_DIR$/pages/blogs" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/logos" />
+      <recent name="$PROJECT_DIR$/images/blog-images/express" />
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/pages/home" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -97,7 +100,7 @@
       <workItem from="1510288900932" duration="12000" />
       <workItem from="1510502905848" duration="760000" />
       <workItem from="1511741157952" duration="175000" />
-      <workItem from="1639581453966" duration="5320000" />
+      <workItem from="1639581453966" duration="16853000" />
     </task>
     <servers />
   </component>
@@ -109,9 +112,24 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="448" y="133" key="SettingsEditor/0.23.1920.1057/-1920.23.1920.999/-3600.329.1680.1027@0.23.1920.1057" timestamp="1639584782823" />
-    <state x="667" y="306" width="586" height="490" key="find.popup" timestamp="1639585183300">
-      <screen x="0" y="23" width="1920" height="1057" />
+    <state x="763" y="461" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1639595435448">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="667" y="306" width="586" height="490" key="find.popup/0.23.1920.1057/-1920.23.1920.999/-3600.329.1680.1027@0.23.1920.1057" timestamp="1639585183300" />
+    <state x="763" y="461" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080/-1920.0.1920.1080/-3600.306.1680.1050@0.0.1920.1080" timestamp="1639595435448" />
+    <state x="-1621" y="23" width="1529" height="999" key="dock-window-1" timestamp="1639587898849">
+      <screen x="-1920" y="23" width="1920" height="999" />
+    </state>
+    <state x="-1621" y="23" width="1529" height="999" key="dock-window-1/0.23.1920.1057/-1920.23.1920.999/-3600.329.1680.1027@0.23.1920.1057" timestamp="1639587898849" />
+    <state x="667" y="289" width="586" height="501" key="find.popup" timestamp="1639598242208">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="667" y="289" width="586" height="501" key="find.popup/0.0.1920.1080/-1920.0.1920.1080/-3600.306.1680.1050@0.0.1920.1080" timestamp="1639598242208" />
+    <state x="667" y="289" width="586" height="501" key="find.popup/0.0.1920.1080/-1920.23.1920.999/-3600.329.1680.1027@0.0.1920.1080" timestamp="1639594482047" />
+    <state x="667" y="306" width="586" height="490" key="find.popup/0.23.1920.1057/-1920.23.1920.999/-3600.329.1680.1027@0.23.1920.1057" timestamp="1639587380448" />
+    <state x="625" y="240" width="670" height="691" key="search.everywhere.popup" timestamp="1639594488318">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="625" y="240" width="670" height="691" key="search.everywhere.popup/0.0.1920.1080/-1920.23.1920.999/-3600.329.1680.1027@0.0.1920.1080" timestamp="1639594488318" />
+    <state x="625" y="258" width="670" height="676" key="search.everywhere.popup/0.23.1920.1057/-1920.23.1920.999/-3600.329.1680.1027@0.23.1920.1057" timestamp="1639588097033" />
   </component>
 </project>
