@@ -26,6 +26,9 @@ const indexPage = {
             img2_straightPose : "images/projects/wtc_straight_pose_1280_690.png",
             img3_wtcBackdrop: "images/wtc_background_1280_690.jpg",
         }
+    },
+    footer: {
+
     }
 }
 
@@ -51,6 +54,8 @@ const navBarAndLinks = () => {
     let navBarGithub = document.getElementById("navbar-github");
     let navBarLinkedin = document.getElementById("navbar-linkedin");
     let navBarResume = document.getElementById("navbar-resume");
+
+    // Network Icons In Description
     let networkFacebook = document.getElementById("network-facebook");
     let networkGithub = document.getElementById("network-github");
     let networkInstagram = document.getElementById("network-instagram");
@@ -59,10 +64,18 @@ const navBarAndLinks = () => {
     let networkTwitter = document.getElementById("network-twitter");
     let networkYoutube = document.getElementById("network-youtube");
 
+    // Footer
+    let footerGithub = document.getElementById("footer-github");
+    let footerFacebook = document.getElementById("footer-facebook");
+    let footerLinkedin = document.getElementById("footer-linkedin");
+    let footerTwitter = document.getElementById("footer-twitter");
 
+    // Nav Bar
     navBarGithub.setAttribute("href", indexPage.links.github);
     navBarLinkedin.setAttribute("href", indexPage.links.linkedin);
     navBarResume.setAttribute("href", indexPage.links.resume);
+
+    // Network Icons in Description
     networkFacebook.setAttribute("href", indexPage.links.facebook);
     networkGithub.setAttribute("href", indexPage.links.github);
     networkInstagram.setAttribute("href", indexPage.links.instagram);
@@ -71,6 +84,11 @@ const navBarAndLinks = () => {
     networkTwitter.setAttribute("href", indexPage.links.twitter);
     networkYoutube.setAttribute("href", indexPage.links.youtube);
 
+    // Footer
+    footerFacebook.setAttribute("href", indexPage.links.facebook);
+    footerGithub.setAttribute("href", indexPage.links.github);
+    footerLinkedin.setAttribute("href", indexPage.links.linkedin);
+    footerTwitter.setAttribute("href", indexPage.links.twitter);
 }
 
 const content = () => {
@@ -84,10 +102,9 @@ const content = () => {
     setContent(wellsFargo, indexPage.aboutMe.wellsFargo);
     setContent(hobbies, indexPage.aboutMe.hobbies);
 }
-window.onload = () => {
+
+window.addEventListener('DOMContentLoaded', () => {
     // setImages(); TODO: fix such that we dynamically update images
     navBarAndLinks();
     content();
-}
-
-
+});
