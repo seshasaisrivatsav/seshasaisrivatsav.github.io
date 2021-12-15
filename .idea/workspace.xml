@@ -2,18 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15e555db-41f7-4148-b03f-21607ff3f566" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/images/logos/jira.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logos/jquery.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logos/reactLogo.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logos/reactLogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logos/springBoot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logos/springMvc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/project/filmNerdReact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/homePageMe/at_beach.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/homePageMe/at_christmas.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/homePageMe/at_home.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/homePageMe/deathValley.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/homePageMe/half_marathon.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/homePageMe/hike.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/homePageMe/salt.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/projects/wtc_straight_pose_1280_690.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/homePageMe/wtc_straight_pose_1280_690.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/suit_boot_1280_690.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/homePageMe/suit_boot_1280_690.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/wtc_background_1280_690.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/homePageMe/wtc_background_1280_690.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/custom.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,11 +66,11 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/homePageMe" />
       <recent name="$PROJECT_DIR$/images/logos" />
       <recent name="$PROJECT_DIR$/images/blog-images/express" />
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/pages/home" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -100,7 +100,7 @@
       <workItem from="1510288900932" duration="12000" />
       <workItem from="1510502905848" duration="760000" />
       <workItem from="1511741157952" duration="175000" />
-      <workItem from="1639581453966" duration="16853000" />
+      <workItem from="1639581453966" duration="17574000" />
     </task>
     <servers />
   </component>
@@ -108,6 +108,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="691" y="349" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1639600015283">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="691" y="349" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/-1920.0.1920.1080/-3600.306.1680.1050@0.0.1920.1080" timestamp="1639600015283" />
     <state x="448" y="133" key="SettingsEditor" timestamp="1639584782823">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
