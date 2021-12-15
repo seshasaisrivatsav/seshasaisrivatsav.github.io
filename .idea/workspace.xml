@@ -2,36 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15e555db-41f7-4148-b03f-21607ff3f566" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/env.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/course/algorithms.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/course/algorithms.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/course/dbms.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/course/dbms.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/course/hci.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/course/hci.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/course/human-computer-interaction/data-visualization.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/course/human-computer-interaction/data-visualization.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/course/human-computer-interaction/fitts-law-simulator.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/course/human-computer-interaction/fitts-law-simulator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/course/mr.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/course/mr.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/course/msd.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/course/msd.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/course/pdp.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/course/pdp.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/course/webdev.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/course/webdev.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/project/filmNerd.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/project/filmNerd.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/project/healthCareManagementSystem.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/project/healthCareManagementSystem.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/project/pageRank.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/project/pageRank.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/project/pdfGenerate.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/project/pdfGenerate.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/project/taPortal.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/project/taPortal.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/project/webAppMaker.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/project/webAppMaker.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/project/webAppMakerAngular4.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/project/webAppMakerAngular4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/sesha-sai-srivatsav/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/sesha-sai-srivatsav/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/sesha-sai-srivatsav/blog-home.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/sesha-sai-srivatsav/blog-home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/sesha-sai-srivatsav/blog/angular-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/sesha-sai-srivatsav/blog/angular-4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/sesha-sai-srivatsav/blog/blog-sample.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/sesha-sai-srivatsav/blog/blog-sample.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/sesha-sai-srivatsav/blog/buying-camera.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/sesha-sai-srivatsav/blog/buying-camera.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/sesha-sai-srivatsav/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/sesha-sai-srivatsav/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/sesha-sai-srivatsav/technical/creating-an-express-app-under-10-lines-of-code.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/sesha-sai-srivatsav/technical/creating-an-express-app-under-10-lines-of-code.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/sesha-sai-srivatsav/technical/what-are-javascript-closures.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/sesha-sai-srivatsav/technical/what-are-javascript-closures.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,43 +21,6 @@
         <option value="JavaScript File" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>gi</find>
-      <find>gulpfile.js</find>
-      <find>gulp</find>
-      <find>.jpg</find>
-      <find>masthead</find>
-      <find>$</find>
-      <find>\&lt;\!DOCTYPE html\&gt;\n\&lt;html lang\=\&quot;en\&quot;\&gt;\n\n\&lt;head\&gt;\n\n    \&lt;meta charset\=\&quot;utf\-8\&quot;\&gt;\n    \&lt;meta name\=\&quot;viewport\&quot; content\=\&quot;width\=device\-width\, initial\-scale\=1\, shrink\-to\-fit\=no\&quot;\&gt;\n    \&lt;meta name\=\&quot;description\&quot; content\=\&quot;\&quot;\&gt;\n    \&lt;meta name\=\&quot;author\&quot; content\=\&quot;\&quot;\&gt;\n\n    \&lt;title\&gt;Sesha Sai Srivatsav Kuchibhotla\&lt;\/title\&gt;\n\n    \&lt;\!\-\- Site Logo \-\-\&gt;\n    \&lt;link href\=\&quot;favicon\.ico\&quot; rel\=\&quot;shortcut icon\&quot; type\=\&quot;image\/x\-icon\&quot;\&gt;\n\n    \&lt;\!\-\- Bootstrap core CSS \-\-\&gt;\n    \&lt;link href\=\&quot;homePageStyleAndScripts\/vendor\/bootstrap\/css\/bootstrap\.min\.css\&quot; rel\=\&quot;stylesheet\&quot;\&gt;\n\n    \&lt;\!\-\- Custom fonts for this template \-\-\&gt;\n    \&lt;link href\=\&quot;homePageStyleAndScripts\/vendor\/font\-awesome\/css\/font\-awesome\.min\.css\&quot; rel\=\&quot;stylesheet\&quot; type\=\&quot;text\/css\&quot;\&gt;\n    \&lt;link href\=\'https\:\/\/fonts\.googleapis\.com\/css\?family\=Lora\:400\,700\,400italic\,700italic\' rel\=\'stylesheet\' type\=\'text\/css\'\&gt;\n    \&lt;link href\=\'https\:\/\/fonts\.googleapis\.com\/css\?family\=Open\+Sans\:300italic\,400italic\,600italic\,700italic\,800italic\,400\,300\,600\,700\,800\' rel\=\'stylesheet\' type\=\'text\/css\'\&gt;\n\n    \&lt;\!\-\- Custom styles for this template \-\-\&gt;\n    \&lt;link href\=\&quot;homePageStyleAndScripts\/css\/clean\-blog\.min\.css\&quot; rel\=\&quot;stylesheet\&quot;\&gt;\n\n    \&lt;\!\-\- Bootstrap core JavaScript \-\-\&gt;\n    \&lt;script src\=\&quot;homePageStyleAndScripts\/vendor\/jquery\/jquery\.min\.js\&quot;\&gt;\&lt;\/script\&gt;\n    \&lt;script src\=\&quot;homePageStyleAndScripts\/vendor\/bootstrap\/js\/bootstrap\.bundle\.min\.js\&quot;\&gt;\&lt;\/script\&gt;\n\n    \&lt;\!\-\- Custom scripts for this template \-\-\&gt;\n    \&lt;script src\=\&quot;homePageStyleAndScripts\/js\/clean\-blog\.min\.js\&quot;\&gt;\&lt;\/script\&gt;\n\n\&lt;\/head\&gt;\n\n\&lt;body\&gt;\n\n\&lt;\!\-\- Navigation \-\-\&gt;\n\&lt;nav class\=\&quot;navbar navbar\-expand\-lg navbar\-light fixed\-top\&quot; id\=\&quot;mainNav\&quot;\&gt;\n    \&lt;div class\=\&quot;container\&quot;\&gt;\n        \&lt;a class\=\&quot;navbar\-brand\&quot; href\=\&quot;index\.html\&quot;\&gt;Sesha Sai Srivatsav\&lt;\/a\&gt;\n        \&lt;button class\=\&quot;navbar\-toggler navbar\-toggler\-right\&quot; type\=\&quot;button\&quot; data\-toggle\=\&quot;collapse\&quot; data\-target\=\&quot;\#navbarResponsive\&quot; aria\-controls\=\&quot;navbarResponsive\&quot; aria\-expanded\=\&quot;false\&quot; aria\-label\=\&quot;Toggle navigation\&quot;\&gt;\n            Menu\n            \&lt;i class\=\&quot;fa fa\-bars\&quot;\&gt;\&lt;\/i\&gt;\n        \&lt;\/button\&gt;\n        \&lt;div class\=\&quot;collapse navbar\-collapse\&quot; id\=\&quot;navbarResponsive\&quot;\&gt;\n            \&lt;ul class\=\&quot;navbar\-nav ml\-auto\&quot;\&gt;\n                \&lt;li class\=\&quot;nav\-item\&quot;\&gt;\n                    \&lt;a class\=\&quot;nav\-link\&quot; href\=\&quot;index\.html\&quot;\&gt;Home\&lt;\/a\&gt;\n                \&lt;\/li\&gt;\n                \&lt;li class\=\&quot;nav\-item\&quot;\&gt;\n                    \&lt;a class\=\&quot;nav\-link\&quot; href\=\&quot;portfolio\.html\&quot;\&gt;Portfolio\&lt;\/a\&gt;\n                \&lt;\/li\&gt;\n                \&lt;li class\=\&quot;nav\-item\&quot;\&gt;\n                    \&lt;a class\=\&quot;nav\-link\&quot; href\=\&quot;pages\/home\/about\.html\&quot;\&gt;About\&lt;\/a\&gt;\n                \&lt;\/li\&gt;\n                \&lt;li class\=\&quot;nav\-item\&quot;\&gt;\n                    \&lt;a class\=\&quot;nav\-link\&quot; href\=\&quot;pages\/home\/blog\-home\.html\&quot;\&gt;Blogs\&lt;\/a\&gt;\n                \&lt;\/li\&gt;\n\n\n                \&lt;li class\=\&quot;nav\-item\&quot;\&gt;\n                    \&lt;a class\=\&quot;nav\-link\&quot; href\=\&quot;pages\/home\/contact\.html\&quot;\&gt;Contact\&lt;\/a\&gt;\n                \&lt;\/li\&gt;\n            \&lt;\/ul\&gt;\n        \&lt;\/div\&gt;\n    \&lt;\/div\&gt;\n\&lt;\/nav\&gt;\n\n\&lt;\!\-\- Page Header \-\-\&gt;\n\&lt;header class\=\&quot;masthead\&quot; style\=\&quot;background\-image\: url\(\'images\/blog\-images\/home\-bg\.jpg\'\)\; height\: 444px\&quot;\&gt;\n    \&lt;div class\=\&quot;container\&quot;\&gt;\n        \&lt;div class\=\&quot;row\&quot;\&gt;\n            \&lt;div class\=\&quot;col\-lg\-8 col\-md\-10 mx\-auto\&quot;\&gt;\n                \&lt;div class\=\&quot;site\-heading\&quot;\&gt;\n                    \&lt;h1\&gt;Sesha Sai Srivatsav\&lt;\/h1\&gt;\n                    \&lt;span class\=\&quot;subheading\&quot;\&gt;Full Stack Engineer \| Web Developer \| Data Admin\&lt;\/span\&gt;\n\n\n                \&lt;\/div\&gt;\n            \&lt;\/div\&gt;\n        \&lt;\/div\&gt;\n    \&lt;\/div\&gt;\n\&lt;\/header\&gt;\n\n\&lt;\!\-\- Main Content \-\-\&gt;\n\&lt;div class\=\&quot;container\&quot;\&gt;\n\n    \&lt;\!\-\-\-\-\&gt;\n    \&lt;div class\=\&quot;row\&quot;\&gt;\n        \&lt;div class\=\&quot;col\-lg\-8 col\-md\-10 mx\-auto\&quot;\&gt;\n            \&lt;div class\=\&quot;post\-preview\&quot;\&gt;\n                \&lt;a href\=\&quot;pages\/home\/blog\-home\.html\&quot;\&gt;\n                    \&lt;h2 class\=\&quot;post\-title\&quot;\&gt;\n                        Getting started with Angular 4 Development\.\n                    \&lt;\/h2\&gt;\n                    \&lt;h3 class\=\&quot;post\-subtitle\&quot;\&gt;\n                        Creating your first Angular 4 MEAN Stack app with\n                    \&lt;\/h3\&gt;\n                \&lt;\/a\&gt;\n                \&lt;p class\=\&quot;post\-meta\&quot;\&gt;Posted by\n                    \&lt;a href\=\&quot;pages\/home\/about\.html\&quot;\&gt;Sesha Sai Srivatsav\&lt;\/a\&gt;\n                    on August 11\, 2017\&lt;\/p\&gt;\n            \&lt;\/div\&gt;\n\n\n            \&lt;hr\&gt;\n\n\n\n            \&lt;div class\=\&quot;post\-preview\&quot;\&gt;\n                \&lt;a href\=\&quot;pages\/home\/blog\-home\.html\&quot;\&gt;\n                    \&lt;h2 class\=\&quot;post\-title\&quot;\&gt;\n                        Guide to buy a camera \(DSLR\/Mirrorless\/Point\)\n                    \&lt;\/h2\&gt;\n                \&lt;\/a\&gt;\n                \&lt;p class\=\&quot;post\-meta\&quot;\&gt;Posted by\n                    \&lt;a href\=\&quot;pages\/home\/about\.html\&quot;\&gt;Sesha Sai Srivatsav\&lt;\/a\&gt;\n                    on September 18\, 2017\&lt;\/p\&gt;\n            \&lt;\/div\&gt;\n\n\n            \&lt;hr\&gt;\n\n\n            \&lt;div class\=\&quot;post\-preview\&quot;\&gt;\n                \&lt;a href\=\&quot;pages\/home\/blog\-home\.html\&quot;\&gt;\n                    \&lt;h2 class\=\&quot;post\-title\&quot;\&gt;\n                        Applying for EAD card\n                    \&lt;\/h2\&gt;\n                    \&lt;h3 class\=\&quot;post\-subtitle\&quot;\&gt;\n                        Steps to apply for Employment Authorization Card\n                    \&lt;\/h3\&gt;\n                \&lt;\/a\&gt;\n                \&lt;p class\=\&quot;post\-meta\&quot;\&gt;Posted by\n                    \&lt;a href\=\&quot;pages\/home\/about\.html\&quot;\&gt;Sesha Sai Srivatsav\&lt;\/a\&gt;\n                    on August 24\, 2017\&lt;\/p\&gt;\n            \&lt;\/div\&gt;\n\n            \&lt;hr\&gt;\n\n\n            \&lt;div class\=\&quot;post\-preview\&quot;\&gt;\n                \&lt;a href\=\&quot;pages\/home\/blog\-home\.html\&quot;\&gt;\n                    \&lt;h2 class\=\&quot;post\-title\&quot;\&gt;\n                        Process for MS in USA\n                    \&lt;\/h2\&gt;\n                    \&lt;h3 class\=\&quot;post\-subtitle\&quot;\&gt;\n                        Steps to get started for applying for MS in USA\n                    \&lt;\/h3\&gt;\n                \&lt;\/a\&gt;\n                \&lt;p class\=\&quot;post\-meta\&quot;\&gt;Posted by\n                    \&lt;a href\=\&quot;pages\/home\/about\.html\&quot;\&gt;Sesha Sai Srivatsav\&lt;\/a\&gt;\n                    on July 8\, 2015\&lt;\/p\&gt;\n            \&lt;\/div\&gt;\n            \&lt;hr\&gt;\n            \&lt;\!\-\- Pager \-\-\&gt;\n            \&lt;div class\=\&quot;clearfix\&quot;\&gt;\n                \&lt;a class\=\&quot;btn btn\-secondary float\-right\&quot; href\=\&quot;\#\&quot;\&gt;Older Posts \&amp;rarr\;\&lt;\/a\&gt;\n            \&lt;\/div\&gt;\n        \&lt;\/div\&gt;\n    \&lt;\/div\&gt;\n\&lt;\/div\&gt;\n\n\&lt;hr\&gt;\n\n\&lt;\!\-\- Footer \-\-\&gt;\n\&lt;footer\&gt;\n    \&lt;div class\=\&quot;container\&quot;\&gt;\n        \&lt;div class\=\&quot;row\&quot;\&gt;\n            \&lt;div class\=\&quot;col\-lg\-8 col\-md\-10 mx\-auto\&quot;\&gt;\n                \&lt;ul class\=\&quot;list\-inline text\-center\&quot;\&gt;\n                    \&lt;li class\=\&quot;list\-inline\-item\&quot;\&gt;\n                        \&lt;a href\=\&quot;\#\&quot;\&gt;\n                  \&lt;span class\=\&quot;fa\-stack fa\-lg\&quot;\&gt;\n                    \&lt;i class\=\&quot;fa fa\-circle fa\-stack\-2x\&quot;\&gt;\&lt;\/i\&gt;\n                    \&lt;i class\=\&quot;fa fa\-twitter fa\-stack\-1x fa\-inverse\&quot;\&gt;\&lt;\/i\&gt;\n                  \&lt;\/span\&gt;\n                        \&lt;\/a\&gt;\n                    \&lt;\/li\&gt;\n                    \&lt;li class\=\&quot;list\-inline\-item\&quot;\&gt;\n                        \&lt;a href\=\&quot;\#\&quot;\&gt;\n                  \&lt;span class\=\&quot;fa\-stack fa\-lg\&quot;\&gt;\n                    \&lt;i class\=\&quot;fa fa\-circle fa\-stack\-2x\&quot;\&gt;\&lt;\/i\&gt;\n                    \&lt;i class\=\&quot;fa fa\-facebook fa\-stack\-1x fa\-inverse\&quot;\&gt;\&lt;\/i\&gt;\n                  \&lt;\/span\&gt;\n                        \&lt;\/a\&gt;\n                    \&lt;\/li\&gt;\n                    \&lt;li class\=\&quot;list\-inline\-item\&quot;\&gt;\n                        \&lt;a href\=\&quot;\#\&quot;\&gt;\n                  \&lt;span class\=\&quot;fa\-stack fa\-lg\&quot;\&gt;\n                    \&lt;i class\=\&quot;fa fa\-circle fa\-stack\-2x\&quot;\&gt;\&lt;\/i\&gt;\n                    \&lt;i class\=\&quot;fa fa\-github fa\-stack\-1x fa\-inverse\&quot;\&gt;\&lt;\/i\&gt;\n                  \&lt;\/span\&gt;\n                        \&lt;\/a\&gt;\n                    \&lt;\/li\&gt;\n                \&lt;\/ul\&gt;\n                \&lt;p class\=\&quot;copyright text\-muted\&quot;\&gt;Copyright \&amp;copy\; Sesha Sai Srivatsav Kuchibhotla 2017\&lt;\/p\&gt;\n            \&lt;\/div\&gt;\n        \&lt;\/div\&gt;\n    \&lt;\/div\&gt;\n\&lt;\/footer\&gt;\n\n\n\n\&lt;\/body\&gt;\n\n\&lt;\/html\&gt;\n</find>
-      <find>contact_me.php</find>
-      <find>older</find>
-      <find>gettin</find>
-      <find>sampl</find>
-      <find>sesha</find>
-      <find>project</find>
-      <find>hr</find>
-      <find>portfol</find>
-      <find>&lt;!--&lt;hr&gt;</find>
-      <find>portfolio-media</find>
-      <find>about</find>
-      <find>m</find>
-      <find>myp</find>
-      <find>projects</find>
-      <find>showData</find>
-      <find>in clas</find>
-      <find>setup()</find>
-      <find>drive</find>
-      <find>contact me</find>
-      <find>downloadCVButton</find>
-      <find>5610</find>
-      <find>backgro</find>
-      <find>herok</find>
-    </findStrings>
-    <dirStrings>
-      <dir>$PROJECT_DIR$</dir>
-    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -106,7 +44,16 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -151,11 +98,21 @@
       <workItem from="1510288900932" duration="12000" />
       <workItem from="1510502905848" duration="760000" />
       <workItem from="1511741157952" duration="175000" />
-      <workItem from="1639581453966" duration="691000" />
+      <workItem from="1639581453966" duration="4623000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="448" y="133" key="SettingsEditor" timestamp="1639584782823">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="448" y="133" key="SettingsEditor/0.23.1920.1057/-1920.23.1920.999/-3600.329.1680.1027@0.23.1920.1057" timestamp="1639584782823" />
+    <state x="667" y="306" width="586" height="490" key="find.popup" timestamp="1639585183300">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="667" y="306" width="586" height="490" key="find.popup/0.23.1920.1057/-1920.23.1920.999/-3600.329.1680.1027@0.23.1920.1057" timestamp="1639585183300" />
   </component>
 </project>

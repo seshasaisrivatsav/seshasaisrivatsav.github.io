@@ -43,6 +43,8 @@
     <!-- End Container 1 -->
 </div>
 <!------------------------------ END SEARCH ---------------------------->
+
+
 <!------------------------------ START NAVBAR ---------------------------->
 <div class="menu-nav">
     <nav class="navbar navbar-default">
@@ -64,7 +66,7 @@
                 <ul class="nav navbar-nav navbar-nav-center">
                     <li><a href="home.html" class="scroll-home">home</a></li>
                     <li><a href="#About" class="scroll-about">about</a></li>
-                    <li><a target="_blank"  href="https://drive.google.com/open?id=0B-6TLW-AJILFM3h1SDZYeWVlR0U">resume</a></li>
+                    <li><a target="_blank"  id="navbar-resume">resume</a></li>
                     <li><a href="#Skills" class="scroll-services">skills</a></li>
                     <li><a href="#Experience" class="scroll-resume">experience</a></li>
                     <li><a href="#Projects" class="scroll-portfolio">projects</a></li>
@@ -74,30 +76,26 @@
                 <!-- End Navbar Center -->
                 <!-- Start Navbar Right -->
                 <ul class="nav navbar-nav navbar-right">
-                    <li><a href="https://www.linkedin.com/in/seshasaisrivatsav/" target="_blank"><i class="icon ion-social-linkedin"></i></a></li>
-                    <li><a href="https://github.com/seshasaisrivatsav" target="_blank"><i class="icon ion-social-github"></i></a></li>
+                    <li><a id="navbar-linkedin" target="_blank"><i class="icon ion-social-linkedin"></i></a></li>
+                    <li><a id="navbar-github" target="_blank"><i class="icon ion-social-github"></i></a></li>
                     <!--<li><a href="#Search"><i class="icon ion-ios-search-strong"></i></a></li>-->
                 </ul>
-                <!-- Start Navbar Right -->
+                <!-- End Navbar Right -->
             </div>
         </div>
         <!-- End Container 1 -->
     </nav>
 </div>
 <!------------------------------ END NAVBAR ---------------------------->
+
+
 <!------------------------------ START HOME ---------------------------->
 <div id="home" class="home">
     <!-- Start Homes pictures -->
     <div class="img-home">
-        <!-- Start Background Img Home One -->
-        <img id="home1" class="zooming" src="images/suit_boot_1280_690.jpg" alt="Home Picture 1"> <!-- * img source -->
-        <!-- End Background Img Home One -->
-        <!-- Start Background Img Home Two -->
-        <img id="home2" class="zooming" src="images/projects/wtc_straight_pose_1280_690.png" alt="Home Picture 2"> <!-- * img source -->
-        <!-- End Background Img Home Two -->
-        <!-- Start Background Img Home Three -->
-        <img id="home3" class="zooming" src="images/wtc_background_1280_690.jpg" alt="Home Picture 3"> <!-- * img source -->
-        <!-- End Background Img Home Three -->
+        <img id="home1" class="zooming" src="images/suit_boot_1280_690.jpg" alt="Home Picture 1">
+        <img id="home2" class="zooming" src="images/projects/wtc_straight_pose_1280_690.png" alt="Home Picture 2">
+        <img id="home3" class="zooming" src="images/wtc_background_1280_690.jpg" alt="Home Picture 3">
     </div>
     <!-- End Homes pictures -->
     <!-- Start Overlay Header -->
@@ -151,34 +149,20 @@
                     <h2 class="wow slideInDown" data-wow-duration="2s">about <span class="color-me">me</span></h2>
                     <hr class="line-title-left">
                     <h3>how i'm Sesha</h3>
-                    <p style="text-align: justify">
-                        I am a Masters student at Northeastern University and am expected to graduate in Dec 2017 and available to work from Jan 2018.
-                        As a student, I developed interest on Web Development using Angular 1/2/4, Software Development and problem solving.
-                        I am passionate about Software Engineering and Full Stack Development.
-                    </p>
-                    <p style="text-align: justify">
-                        As a Cloud Software Engineer Intern at New York Life, I worked on building Insurance as a Service platform using Angular 2/4 using AWS Tech Stack (EC2, S3, Lambda, ECS, API Gateway), JavaScript, CSS, Bootstrap, DynamoDB, mySQL, database design and modeling.
-                        Working in all these varied areas across teams gave me extensive experience in the entire SDLC process of building full stack applications on the cloud.
-                    </p>
-                    <p style="text-align: justify">
-                        I worked as Database Analyst at Wells Fargo for 2.5 years where I primarily served Teradata and Aster database applications (using SQL, Shell/Bash Scripting, Autosys and Teradata Tools and Utilities 14.0).
-                        During this tenure, I worked with application teams providing them database support with Query Tuning, Database design, data migration etc.
-                        I also received 22 shared success awards during this period.
-                    </p>
-                    <p style="text-align: justify">
-                        While I enjoy a great movie, I like to go outdoors for photography and traveling. I also am a budding cook and an amateur guitarist.
-                        I post videos on YouTube and aspire to work on my hobbies once I graduate.
-                    </p>
+                    <p style="text-align: justify" id="masters-student"></p>
+                    <p style="text-align: justify" id="newyork-life"></p>
+                    <p style="text-align: justify" id="wells-fargo"></p>
+                    <p style="text-align: justify" id="hobbies"></p>
                     <div class="network-social-about">
-                        <a href="https://www.linkedin.com/in/seshasaisrivatsav/" target="_blank"><span class="ion-social-linkedin"></span></a>
-                        <a href="https://github.com/seshasaisrivatsav" target="_blank"><span class="ion-social-github"></span></a>
-                        <a href="https://www.facebook.com/seshasai.srivatsav" target="_blank"><span class="ion-social-facebook"></span></a>
-                        <a href="https://twitter.com/seshasai_tris" target="_blank"><span class="ion-social-twitter"></span></a>
-                        <a href="https://www.instagram.com/seshasai_tris/" target="_blank"><span class="ion-social-instagram-outline"></span></a>
-                        <a href="https://www.youtube.com/seshasaisrivatsav" target="_blank"><span class="ion-social-youtube"></span></a>
+                        <a id="network-linkedin" target="_blank"><span class="ion-social-linkedin"></span></a>
+                        <a id="network-github" target="_blank"><span class="ion-social-github"></span></a>
+                        <a id="network-youtube" target="_blank"><span class="ion-social-youtube"></span></a>
+                        <a id="network-facebook" target="_blank"><span class="ion-social-facebook"></span></a>
+                        <a id="network-twitter" target="_blank"><span class="ion-social-twitter"></span></a>
+                        <a id="network-instagram" target="_blank"><span class="ion-social-instagram-outline"></span></a>
                     </div>
                     <button class="btn wow slideInUp" data-wow-duration="0.5s">contact me</button>
-                    <a href="https://drive.google.com/open?id=0B-6TLW-AJILFdGdFSXdtd1hSdUE">
+                    <a id="network-resume">
                         <button class="btn-primary myResumeButton">
                             Resume
                         </button>
@@ -752,5 +736,6 @@
 <script src="js/wow.js"></script>
 <script src="js/nicescroll.min.js"></script>
 <script src="js/custom.js"></script>
+<script src="index.js"></script>
 </body>
 </html>

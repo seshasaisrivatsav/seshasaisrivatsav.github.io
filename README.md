@@ -1,8 +1,7 @@
-#www.seshasaisrivatsav.com
+## Portfolio 
+https://seshasaisrivatsav.github.io/
 
-
-
-#TODO Website
+# TODO Website
 1. Add download resume
 2. Change Projects Type
 3. Search feature
@@ -19,9 +18,13 @@
     5. Make technologies. Remove “,”
     6. Received Shared Success Awards
 
+## Publish Website to AWS
+- Have git and aws installed
+```
 git add .
 git commit -m "changed URL to TA Portal "
 git push origin master
 aws s3 sync . s3://www.seshasaisrivatsav.com/
 aws s3 sync . s3://www.sesha.me/
 aws s3 sync . s3://sesha.me/
+```
