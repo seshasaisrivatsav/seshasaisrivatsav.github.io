@@ -2,124 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15e555db-41f7-4148-b03f-21607ff3f566" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/project/filmNerd.html" afterPath="$PROJECT_DIR$/pages/project/filmNerd.html" />
+      <change afterPath="$PROJECT_DIR$/env.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/course/algorithms.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/course/algorithms.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/course/dbms.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/course/dbms.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/course/hci.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/course/hci.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/course/human-computer-interaction/data-visualization.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/course/human-computer-interaction/data-visualization.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/course/human-computer-interaction/fitts-law-simulator.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/course/human-computer-interaction/fitts-law-simulator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/course/mr.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/course/mr.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/course/msd.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/course/msd.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/course/pdp.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/course/pdp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/course/webdev.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/course/webdev.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/project/filmNerd.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/project/filmNerd.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/project/healthCareManagementSystem.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/project/healthCareManagementSystem.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/project/pageRank.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/project/pageRank.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/project/pdfGenerate.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/project/pdfGenerate.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/project/taPortal.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/project/taPortal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/project/webAppMaker.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/project/webAppMaker.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/project/webAppMakerAngular4.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/project/webAppMakerAngular4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/sesha-sai-srivatsav/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/sesha-sai-srivatsav/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/sesha-sai-srivatsav/blog-home.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/sesha-sai-srivatsav/blog-home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/sesha-sai-srivatsav/blog/angular-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/sesha-sai-srivatsav/blog/angular-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/sesha-sai-srivatsav/blog/blog-sample.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/sesha-sai-srivatsav/blog/blog-sample.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/sesha-sai-srivatsav/blog/buying-camera.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/sesha-sai-srivatsav/blog/buying-camera.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/sesha-sai-srivatsav/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/sesha-sai-srivatsav/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/sesha-sai-srivatsav/technical/creating-an-express-app-under-10-lines-of-code.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/sesha-sai-srivatsav/technical/creating-an-express-app-under-10-lines-of-code.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/sesha-sai-srivatsav/technical/what-are-javascript-closures.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/sesha-sai-srivatsav/technical/what-are-javascript-closures.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1770">
-              <caret line="118" column="20" lean-forward="false" selection-start-line="118" selection-start-column="20" selection-end-line="118" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ds.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/sesha-sai-srivatsav/technical/ds.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="30" lean-forward="false" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="filmNerd.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pages/project/filmNerd.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="63" column="25" lean-forward="false" selection-start-line="63" selection-start-column="25" selection-end-line="63" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ds.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/sesha-sai-srivatsav/technical/ds.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="angular-4.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/sesha-sai-srivatsav/blog/angular-4.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2190">
-              <caret line="146" column="18" lean-forward="false" selection-start-line="146" selection-start-column="18" selection-end-line="146" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="what-are-javascript-closures.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/sesha-sai-srivatsav/technical/what-are-javascript-closures.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1425">
-              <caret line="95" column="93" lean-forward="true" selection-start-line="95" selection-start-column="93" selection-end-line="95" selection-end-column="93" />
-              <folding>
-                <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="45" column="17" lean-forward="false" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="animate.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/animate.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22755">
-              <caret line="1517" column="22" lean-forward="false" selection-start-line="1517" selection-start-column="22" selection-end-line="1517" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sketch.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/course/human-computer-interaction/sketch.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="21" lean-forward="false" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -170,134 +87,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/pages/discarded.html" />
-        <option value="$PROJECT_DIR$/js/custom.js" />
-        <option value="$PROJECT_DIR$/pages/filmNerd.html" />
-        <option value="$PROJECT_DIR$/pages/webAppMaker.html" />
-        <option value="$PROJECT_DIR$/pages/pageRank.html" />
-        <option value="$PROJECT_DIR$/pages/taPortal.html" />
-        <option value="$PROJECT_DIR$/pages/pdfGenerate.html" />
-        <option value="$PROJECT_DIR$/pages/webAppMakerAngular4.html" />
-        <option value="$PROJECT_DIR$/pages/healthCareManagementSystem.html" />
-        <option value="$PROJECT_DIR$/css/blog.css" />
-        <option value="$PROJECT_DIR$/pages/course/algorithms.html" />
-        <option value="$PROJECT_DIR$/pages/course/dbms.html" />
-        <option value="$PROJECT_DIR$/pages/course/mr.html" />
-        <option value="$PROJECT_DIR$/pages/course/pdp.html" />
-        <option value="$PROJECT_DIR$/pages/course/webdev.html" />
-        <option value="$PROJECT_DIR$/pages/course/msd.html" />
-        <option value="$PROJECT_DIR$/styles.css" />
-        <option value="$PROJECT_DIR$/pages/portfolio.html" />
-        <option value="$PROJECT_DIR$/post.html" />
-        <option value="$PROJECT_DIR$/pages/home/post.html" />
-        <option value="$PROJECT_DIR$/pages/home/allblogs.html" />
-        <option value="$PROJECT_DIR$/pages/blogs/blog-sample.html" />
-        <option value="$PROJECT_DIR$/pages/home/about.html" />
-        <option value="$PROJECT_DIR$/homePageStyleAndScripts/css/clean-blog.min.css" />
-        <option value="$PROJECT_DIR$/pages/home/styles.html" />
-        <option value="$PROJECT_DIR$/homePageStyleAndScripts/mail/contact_me.php" />
-        <option value="$PROJECT_DIR$/pages/home/contact.html" />
-        <option value="$PROJECT_DIR$/pages/home/styles.css" />
-        <option value="$PROJECT_DIR$/pages/blogs/buying-camera.css" />
-        <option value="$PROJECT_DIR$/pages/blogs/buying-camera.html" />
-        <option value="$PROJECT_DIR$/pages/home/blog-home.html" />
-        <option value="$PROJECT_DIR$/pages/blogs/angular-4.html" />
-        <option value="$PROJECT_DIR$/pages/course/human-computer-interaction/sketch.js" />
-        <option value="$PROJECT_DIR$/pages/course/human-computer-interaction/in-class-activities.html" />
-        <option value="$PROJECT_DIR$/pages/course/human-computer-interaction/fitts-law-simulator.html" />
-        <option value="$PROJECT_DIR$/pages/course/human-computer-interaction/google-charts.html" />
-        <option value="$PROJECT_DIR$/pages/course/hci.html" />
-        <option value="$PROJECT_DIR$/pages/course/human-computer-interaction/data-visualization.html" />
-        <option value="$PROJECT_DIR$/pages/course/human-computer-interaction/data-visualization.js" />
-        <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/portfolio.html" />
-        <option value="$PROJECT_DIR$/pages/sesha-sai-srivatsav/technical/creating-an-express-app-under-10-lines-of-code.html" />
-        <option value="$PROJECT_DIR$/pages/sesha-sai-srivatsav/blog/angular-4.html" />
-        <option value="$PROJECT_DIR$/pages/sesha-sai-srivatsav/technical/what-are-javascript-closures.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/pages/sesha-sai-srivatsav/technical/ds.css" />
-        <option value="$PROJECT_DIR$/pages/sesha-sai-srivatsav/technical/ds.js" />
-        <option value="$PROJECT_DIR$/pages/sesha-sai-srivatsav/technical/ds.html" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/pages/project/filmNerd.html" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="836" />
   </component>
+  <component name="ProjectId" id="22KLhckIQKGzDFkLMoHJ95xftp1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="www.seshasaisrivatsav.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="www.seshasaisrivatsav.com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="www.seshasaisrivatsav.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="www.seshasaisrivatsav.com" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="www.seshasaisrivatsav.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="www.seshasaisrivatsav.com" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="www.seshasaisrivatsav.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="www.seshasaisrivatsav.com" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="www.seshasaisrivatsav.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="www.seshasaisrivatsav.com" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="sesha-sai-srivatsav" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="SearchEverywhereHistoryKey" value="1280&#9;null&#9;null" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path" value="node" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -314,21 +123,6 @@
       <recent name="$PROJECT_DIR$/pages/blogs" />
       <recent name="$PROJECT_DIR$" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -357,323 +151,11 @@
       <workItem from="1510288900932" duration="12000" />
       <workItem from="1510502905848" duration="760000" />
       <workItem from="1511741157952" duration="175000" />
+      <workItem from="1639581453966" duration="691000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68754000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18181819" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23095526" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1770">
-          <caret line="118" column="20" lean-forward="false" selection-start-line="118" selection-start-column="20" selection-end-line="118" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/sesha-sai-srivatsav/technical/ds.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/sesha-sai-srivatsav/technical/creating-an-express-app-under-10-lines-of-code.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3210">
-          <caret line="214" column="71" lean-forward="true" selection-start-line="214" selection-start-column="71" selection-end-line="214" selection-end-column="71" />
-          <folding>
-            <element signature="n#button#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/sesha-sai-srivatsav/blog/angular-4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2190">
-          <caret line="146" column="18" lean-forward="true" selection-start-line="146" selection-start-column="18" selection-end-line="146" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/sesha-sai-srivatsav/technical/what-are-javascript-closures.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1425">
-          <caret line="95" column="93" lean-forward="true" selection-start-line="95" selection-start-column="93" selection-end-line="95" selection-end-column="93" />
-          <folding>
-            <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="45" column="17" lean-forward="false" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/animate.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22755">
-          <caret line="1517" column="22" lean-forward="false" selection-start-line="1517" selection-start-column="22" selection-end-line="1517" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/course/human-computer-interaction/sketch.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="21" lean-forward="false" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/sesha-sai-srivatsav/technical/ds.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="30" lean-forward="false" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/course/human-computer-interaction/fitts-law-simulator.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8685">
-          <caret line="579" column="0" lean-forward="false" selection-start-line="579" selection-start-column="0" selection-end-line="579" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1920">
-          <caret line="128" column="112" lean-forward="false" selection-start-line="128" selection-start-column="112" selection-end-line="128" selection-end-column="112" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/sesha-sai-srivatsav/technical/creating-an-express-app-under-10-lines-of-code.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2895">
-          <caret line="214" column="71" lean-forward="true" selection-start-line="214" selection-start-column="71" selection-end-line="214" selection-end-column="71" />
-          <folding>
-            <element signature="n#button#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/sesha-sai-srivatsav/blog/angular-4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2190">
-          <caret line="146" column="18" lean-forward="true" selection-start-line="146" selection-start-column="18" selection-end-line="146" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="45" column="17" lean-forward="false" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/animate.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22755">
-          <caret line="1517" column="22" lean-forward="false" selection-start-line="1517" selection-start-column="22" selection-end-line="1517" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/course/human-computer-interaction/sketch.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="21" lean-forward="false" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/sesha-sai-srivatsav/technical/what-are-javascript-closures.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1890">
-          <caret line="126" column="88" lean-forward="true" selection-start-line="126" selection-start-column="88" selection-end-line="126" selection-end-column="88" />
-          <folding>
-            <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/course/human-computer-interaction/fitts-law-simulator.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7695">
-          <caret line="579" column="0" lean-forward="false" selection-start-line="579" selection-start-column="0" selection-end-line="579" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/sesha-sai-srivatsav/technical/creating-an-express-app-under-10-lines-of-code.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2895">
-          <caret line="214" column="71" lean-forward="false" selection-start-line="214" selection-start-column="71" selection-end-line="214" selection-end-column="71" />
-          <folding>
-            <element signature="n#button#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/sesha-sai-srivatsav/blog/angular-4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2190">
-          <caret line="146" column="18" lean-forward="false" selection-start-line="146" selection-start-column="18" selection-end-line="146" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="45" column="17" lean-forward="false" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/animate.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22755">
-          <caret line="1517" column="22" lean-forward="false" selection-start-line="1517" selection-start-column="22" selection-end-line="1517" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/course/human-computer-interaction/sketch.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="21" lean-forward="false" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1770">
-          <caret line="118" column="20" lean-forward="false" selection-start-line="118" selection-start-column="20" selection-end-line="118" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/sesha-sai-srivatsav/technical/what-are-javascript-closures.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1425">
-          <caret line="95" column="93" lean-forward="true" selection-start-line="95" selection-start-column="93" selection-end-line="95" selection-end-column="93" />
-          <folding>
-            <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/sesha-sai-srivatsav/technical/ds.css" />
-    <entry file="file://$PROJECT_DIR$/pages/sesha-sai-srivatsav/technical/ds.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/sesha-sai-srivatsav/technical/ds.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="30" lean-forward="false" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/project/filmNerd.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="63" column="25" lean-forward="false" selection-start-line="63" selection-start-column="25" selection-end-line="63" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <option name="version" value="2" />
   </component>
 </project>
