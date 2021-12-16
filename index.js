@@ -15,7 +15,7 @@ const indexPage = {
             "I also make videos and have made a few short films that I post to YouTube (checkout my social pages linked on this site)."
     },
     links: {
-        resume: "https://drive.google.com/file/d/1WvtOa5VxIFeBbaK1dNUZ8YzgrZI4vBgQ/view?usp=sharing",
+        resume: "https://drive.google.com/file/d/1WvtOa5VxIFeBbaK1dNUZ8YzgrZI4vBgQ/view",
         github: "https://github.com/seshasaisrivatsav",
         linkedin: "https://www.linkedin.com/in/seshasaisrivatsav/",
         youtube: "https://www.youtube.com/seshasaisrivatsav",
