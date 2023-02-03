@@ -1,21 +1,14 @@
 const indexPage = {
     aboutMe: {
-        constantContact: "As a Full Stack Engineer at Constant Contact, an email marketing company, I work on a team that works on parts of the product that get" +
-            "~80-90% of traffic. I've had a great opportunity to work on almost everything in the product lifecycle from being part of UX research calls, story refinement, " +
-            "front end, backend, integration testing and mentoring interns and new team members. It's gratifying to build marketing solutions that serve small businesses using " +
-            "technologies like React, Angular, Spring Boot, AWS, HTML, CSS.",
-        masters: "Pursuing Masters in Computer Science at Northeastern University peaked my interest for Software and Web Development. I had the pleasure to work for my professor to build Teaching Assistants portal " +
-            "and also work on my own projects to build a movie rating site - Film Nerd",
-        newYorkLife: "As a Cloud Software Engineer Intern at New York Life, I worked on building Insurance as a Service platform using Angular 2/4 using AWS Tech Stack (EC2, S3, Lambda, ECS, API Gateway), JavaScript, CSS, Bootstrap, DynamoDB, mySQL, database design and modeling." +
-            "Working in all these varied areas across teams gave me extensive experience in the entire SDLC process of building full stack applications on the cloud.",
-        wellsFargo: "I worked as Database Analyst at Wells Fargo for 2.5 years where I primarily served Teradata and Aster database applications (using SQL, Shell/Bash Scripting, Autosys and Teradata Tools and Utilities 14.0)." +
-            "During this tenure, I worked with application teams providing them database support with Query Tuning, Database design, data migration etc." +
-            "I also received 22 shared success awards during this period.",
-        hobbies: "While I enjoy a watching a nice movie, I like to go outdoors for photography and traveling. I also am a budding cook, amateur guitarist and a certified fitness trainer." +
-            "I also make videos and have made a few short films that I post to YouTube (checkout my social pages linked on this site)."
+        hubSpot: "I have a lifelong passion for computer science, which was sparked by my experience playing Dangerous Dave in 1st standard. Intrigued by the power of computers, I pursued a career in the field, honing my skills through various experiences, such as helping my teachers with Microsoft products and making short movies as a high school student. I further developed my knowledge and problem-solving abilities by obtaining a Master's degree in computer science from Northeastern University, where I also served as a TA, designing assignments for the Web Development course.",
+        constantContact: "I value collaboration and teamwork, and strive to maintain simple, efficient code and up-to-date architecture documents. I believe in continuous growth through listening, learning and sharing knowledge with others. ",
+        masters: "My professional experience includes a Co-op role at NewYork Life Insurance, where I built Insurance as a Service using Angular and AWS technologies. I also worked as a software engineer II at Constant Contact in Boston, building marketing software for small businesses and contributing to a team that handled 80-90% of the website traffic. Currently, as a senior software engineer at HubSpot, I am part of the core CRM team, working on building services that power the creation and associations of CRM objects.",
+        newYorkLife: "In my free time, I enjoy staying active through workouts, runs, and playing guitar. I also enjoy video games, cooking, and traveling. More details about each role in My Experience section below",
+        wellsFargo: "",
+        hobbies: "",
     },
     links: {
-        resume: "https://drive.google.com/file/d/1WvtOa5VxIFeBbaK1dNUZ8YzgrZI4vBgQ/view",
+        resume: "https://drive.google.com/file/d/1E_o3BziBOu7uS7ktepkBLqd6qtgUi0sx/view",
         github: "https://github.com/seshasaisrivatsav",
         linkedin: "https://www.linkedin.com/in/seshasaisrivatsav/",
         youtube: "https://www.youtube.com/seshasaisrivatsav",
@@ -31,10 +24,21 @@ const indexPage = {
         }
     },
     workExperience: {
+        hubSpot: {
+          name: "HubSpot",
+          fromDate: "Apr 2022",
+          toDate: "Feb 2023",
+          title: "Senior Software Engineer I",
+          description: "Delivered Same Object Associations, a most requested feature that " +
+                      "would enable customers to associate objects (contacts, companies, deals etc) of the same type and created documentation for internal and external use for the same." +
+                      " Optimized existing Kafka workers that used to get lagged by creating swimlanes for deletes and restores that only account for 3% of the traffic. This alleviated some of the frequent on-call alerts." +
+                      " Provided 24x7 on call support for services that received nearly 400k requests/sec at 100-150 instances. Whilst on support, I worked with customer reps to understand and address customer problems that needed quick solutions." +
+                      " Documented complex architecture flows for internal use that helped onboard new team members",
+        },
         constantContactII: {
             name: "Constant Contact",
             fromDate: "Mar 2020",
-            toDate: "Current",
+            toDate: "Apr 2022",
             title: "Software Engineer II",
             description: "Collaborated with teams to design and implement COVID dashboard (using React, Spring and AWS) that allowed small businesses to schedule campaigns during the 2020 pandemic. " +
                 "Mentoring Junior Software Engineers and interns with tech walk throughs and code reviews. " +
@@ -138,12 +142,14 @@ const navBarAndLinks = () => {
 }
 
 const content = () => {
+    let hubSpotExp = document.getElementById("hubspot-exp");
     let constantContactExp = document.getElementById("constant-contact-exp");
     let mastersStudent = document.getElementById("masters-student");
     let newYorkLife = document.getElementById("newyork-life");
     let wellsFargo = document.getElementById("wells-fargo");
     let hobbies = document.getElementById("hobbies");
 
+    setContent(hubSpotExp, indexPage.aboutMe.hubSpot)
     setContent(constantContactExp, indexPage.aboutMe.constantContact);
     setContent(mastersStudent, indexPage.aboutMe.masters);
     setContent(newYorkLife, indexPage.aboutMe.newYorkLife);
@@ -172,7 +178,8 @@ const createWorkElement = (work) => {
 
 const createWorkExperiences = () => {
     const workExperienceContainer = document.getElementById("work-experience-container");
-    workExperienceContainer.innerHTML = createWorkElement(indexPage.workExperience.constantContactII);
+    workExperienceContainer.innerHTML = createWorkElement(indexPage.workExperience.hubSpot);
+    workExperienceContainer.innerHTML += createWorkElement(indexPage.workExperience.constantContactII);
     workExperienceContainer.innerHTML += createWorkElement(indexPage.workExperience.constantContact);
     workExperienceContainer.innerHTML += createWorkElement(indexPage.workExperience.northeastern);
     workExperienceContainer.innerHTML += createWorkElement(indexPage.workExperience.nyl);
@@ -231,6 +238,18 @@ const generateRowThreeTechSkills = () => {
     ];
     generateSkillsInDiv(techSkillsDiv3, techSkills3);
 };
+const generateRowFourTechSkills = () => {
+    const techSkillsDiv4 = document.getElementById("technical-skills-4");
+    let techSkills4 = [
+        getTechSkill(0, "Hbase", "images/logos/hbase.png", "https://hbase.apache.org/"),
+        getTechSkill(1, "Kafka", "images/logos/javascript.png", "https://kafka.apache.org/"),
+        getTechSkill(2, "SQS", "images/logos/awssqs.png", "https://www.w3.org/html/"),
+        getTechSkill(3, "Guice", "images/logos/google_guice.png", "https://github.com/google/guice"),
+        getTechSkill(4, "Dropwizard", "images/logos/dropwizard.png", "https://www.dropwizard.io/en/latest/index.html"),
+        getTechSkill(5, "Grafana", "images/logos/grafana.jpeg", "https://grafana.com/"),
+    ];
+    generateSkillsInDiv(techSkillsDiv4, techSkills4);
+}
 ////////////////////////////////////////// ^^ SKILLS  END ^^ ///////////////////////////////////////////////////////////
 
 
@@ -241,5 +260,6 @@ window.addEventListener('DOMContentLoaded', () => {
     generateRowOneTechSkills();
     generateRowTwoTechSkills();
     generateRowThreeTechSkills();
+    generateRowFourTechSkills();
     createWorkExperiences();
 });
