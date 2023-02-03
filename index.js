@@ -238,6 +238,18 @@ const generateRowThreeTechSkills = () => {
     ];
     generateSkillsInDiv(techSkillsDiv3, techSkills3);
 };
+const generateRowFourTechSkills = () => {
+    const techSkillsDiv4 = document.getElementById("technical-skills-4");
+    let techSkills4 = [
+        getTechSkill(0, "Hbase", "images/logos/hbase.png", "https://hbase.apache.org/"),
+        getTechSkill(1, "Kafka", "images/logos/javascript.png", "https://kafka.apache.org/"),
+        getTechSkill(2, "SQS", "images/logos/awssqs.png", "https://www.w3.org/html/"),
+        getTechSkill(3, "Guice", "images/logos/google_guice.png", "https://github.com/google/guice"),
+        getTechSkill(4, "Dropwizard", "images/logos/dropwizard.png", "https://www.dropwizard.io/en/latest/index.html"),
+        getTechSkill(5, "Grafana", "images/logos/grafana.jpeg", "https://grafana.com/"),
+    ];
+    generateSkillsInDiv(techSkillsDiv4, techSkills4);
+}
 ////////////////////////////////////////// ^^ SKILLS  END ^^ ///////////////////////////////////////////////////////////
 
 
@@ -248,5 +260,6 @@ window.addEventListener('DOMContentLoaded', () => {
     generateRowOneTechSkills();
     generateRowTwoTechSkills();
     generateRowThreeTechSkills();
+    generateRowFourTechSkills();
     createWorkExperiences();
 });
